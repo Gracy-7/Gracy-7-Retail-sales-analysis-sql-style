@@ -1,0 +1,1201 @@
+Date,Region,Category,Sub-Category,Product,Quantity Sold,Price Per Unit,Total Sales
+2024-12-03,North,Beauty,Skincare,Product_5,5,397.06,1985.3
+2024-10-02,Central,Clothing,Kids,Product_23,4,394.13,1576.52
+2024-10-14,East,Clothing,Men,Product_14,3,120.25,360.75
+2024-06-27,West,Home & Kitchen,Furniture,Product_5,7,390.79,2735.53
+2024-06-26,West,Home & Kitchen,Decor,Product_17,8,394.33,3154.64
+2024-12-26,East,Beauty,Skincare,Product_59,5,281.97,1409.85
+2024-07-27,West,Beauty,Makeup,Product_99,2,313.99,627.98
+2024-05-14,South,Home & Kitchen,Furniture,Product_99,1,314.96,314.96
+2024-11-26,West,Clothing,Men,Product_76,3,263.94,791.82
+2024-07-14,West,Beauty,Haircare,Product_36,7,171.47,1200.29
+2024-10-27,North,Home & Kitchen,Decor,Product_10,1,272.41,272.41
+2024-07-29,North,Beauty,Skincare,Product_38,10,224.1,2241.0
+2024-10-30,North,Clothing,Women,Product_47,4,359.13,1436.52
+2024-08-26,East,Beauty,Makeup,Product_65,5,237.5,1187.5
+2024-03-05,Central,Electronics,Laptop,Product_31,5,54.13,270.65
+2024-11-14,West,Clothing,Men,Product_54,3,357.48,1072.44
+2024-09-08,South,Electronics,Mobile,Product_58,6,30.58,183.48
+2024-01-27,Central,Sports,Indoor,Product_23,7,268.95,1882.65
+2024-10-27,Central,Electronics,Laptop,Product_97,3,334.49,1003.47
+2024-09-29,South,Sports,Indoor,Product_52,8,157.67,1261.36
+2024-11-04,East,Sports,Indoor,Product_13,6,314.11,1884.66
+2024-08-05,West,Beauty,Haircare,Product_29,2,483.8,967.6
+2024-03-07,North,Beauty,Makeup,Product_94,1,409.66,409.66
+2024-07-01,East,Electronics,Tablet,Product_24,7,393.68,2755.76
+2024-04-17,East,Electronics,Laptop,Product_41,3,278.25,834.75
+2024-07-03,North,Home & Kitchen,Furniture,Product_95,1,40.1,40.1
+2024-08-17,West,Beauty,Haircare,Product_93,9,86.7,780.3
+2024-12-27,East,Home & Kitchen,Decor,Product_93,6,27.76,166.56
+2024-01-27,Central,Electronics,Tablet,Product_56,6,481.64,2889.84
+2024-02-01,Central,Clothing,Women,Product_69,5,57.15,285.75
+2024-06-06,South,Beauty,Makeup,Product_23,2,252.8,505.6
+2024-09-12,South,Electronics,Mobile,Product_71,3,48.1,144.3
+2024-05-15,North,Beauty,Skincare,Product_15,2,279.91,559.82
+2024-10-12,East,Beauty,Haircare,Product_38,2,117.65,235.3
+2024-06-16,West,Home & Kitchen,Decor,Product_44,7,170.24,1191.68
+2024-02-10,West,Sports,Indoor,Product_93,2,322.9,645.8
+2024-09-29,West,Beauty,Skincare,Product_1,4,399.18,1596.72
+2024-01-27,North,Beauty,Haircare,Product_33,3,120.59,361.77
+2024-09-06,East,Home & Kitchen,Furniture,Product_62,8,421.17,3369.36
+2024-10-24,Central,Home & Kitchen,Decor,Product_84,2,266.55,533.1
+2024-02-24,East,Clothing,Kids,Product_14,7,490.71,3434.97
+2024-05-11,East,Electronics,Laptop,Product_10,7,227.39,1591.73
+2024-07-19,East,Home & Kitchen,Decor,Product_23,7,303.87,2127.09
+2024-06-20,South,Sports,Fitness,Product_66,7,61.11,427.77
+2024-07-11,South,Sports,Fitness,Product_1,5,493.73,2468.65
+2024-12-09,West,Electronics,Tablet,Product_24,7,467.1,3269.7
+2024-11-30,South,Home & Kitchen,Furniture,Product_91,6,300.18,1801.08
+2024-11-02,South,Beauty,Skincare,Product_98,7,296.84,2077.88
+2024-01-15,North,Home & Kitchen,Furniture,Product_80,4,171.94,687.76
+2024-06-13,North,Electronics,Tablet,Product_46,1,294.32,294.32
+2024-05-01,South,Home & Kitchen,Furniture,Product_46,6,292.09,1752.54
+2024-03-09,East,Beauty,Skincare,Product_12,3,103.41,310.23
+2024-01-19,South,Home & Kitchen,Furniture,Product_31,6,480.63,2883.78
+2024-02-13,East,Sports,Fitness,Product_1,9,363.03,3267.27
+2024-08-28,North,Home & Kitchen,Appliances,Product_3,1,208.81,208.81
+2024-12-14,South,Clothing,Women,Product_34,10,181.48,1814.8
+2024-08-05,East,Beauty,Makeup,Product_99,5,227.73,1138.65
+2024-06-02,West,Home & Kitchen,Decor,Product_61,1,479.26,479.26
+2024-05-01,South,Home & Kitchen,Decor,Product_21,4,478.15,1912.6
+2024-05-15,East,Clothing,Men,Product_51,1,57.83,57.83
+2024-01-09,North,Home & Kitchen,Decor,Product_36,7,301.86,2113.02
+2024-03-16,Central,Sports,Indoor,Product_34,5,135.61,678.05
+2024-09-05,East,Sports,Outdoor,Product_9,4,285.1,1140.4
+2024-03-23,Central,Electronics,Laptop,Product_77,3,130.4,391.2
+2024-06-25,North,Home & Kitchen,Furniture,Product_38,3,276.72,830.16
+2024-01-08,South,Beauty,Makeup,Product_63,2,377.91,755.82
+2024-07-26,Central,Sports,Fitness,Product_78,1,152.16,152.16
+2024-06-23,North,Electronics,Tablet,Product_21,9,209.54,1885.86
+2024-05-24,East,Home & Kitchen,Furniture,Product_36,7,105.74,740.18
+2024-05-20,East,Electronics,Tablet,Product_15,5,413.61,2068.05
+2024-05-09,South,Sports,Indoor,Product_15,7,62.1,434.7
+2024-05-21,South,Home & Kitchen,Furniture,Product_63,1,26.27,26.27
+2024-11-04,West,Home & Kitchen,Decor,Product_73,6,169.55,1017.3
+2024-02-07,East,Beauty,Haircare,Product_87,5,154.62,773.1
+2024-08-22,Central,Beauty,Makeup,Product_41,10,46.14,461.4
+2024-05-13,East,Clothing,Men,Product_3,8,428.44,3427.52
+2024-03-04,South,Sports,Outdoor,Product_44,9,228.27,2054.43
+2024-08-04,Central,Electronics,Tablet,Product_100,1,296.4,296.4
+2024-10-16,North,Clothing,Women,Product_42,2,268.81,537.62
+2024-05-21,South,Electronics,Laptop,Product_18,9,11.08,99.72
+2024-10-01,North,Clothing,Women,Product_27,4,304.54,1218.16
+2024-12-08,South,Beauty,Makeup,Product_51,9,161.76,1455.84
+2024-08-24,East,Beauty,Skincare,Product_75,5,269.16,1345.8
+2024-01-02,North,Clothing,Women,Product_31,8,32.65,261.2
+2024-09-14,Central,Sports,Outdoor,Product_75,3,392.09,1176.27
+2024-09-11,West,Home & Kitchen,Decor,Product_60,2,128.05,256.1
+2024-09-13,West,Clothing,Men,Product_55,6,16.86,101.16
+2024-12-18,West,Beauty,Makeup,Product_42,9,397.75,3579.75
+2024-04-10,East,Electronics,Tablet,Product_83,6,374.59,2247.54
+2024-06-28,South,Beauty,Makeup,Product_34,9,123.07,1107.63
+2024-08-10,South,Electronics,Laptop,Product_53,10,463.62,4636.2
+2024-01-20,Central,Electronics,Laptop,Product_19,3,238.6,715.8
+2024-07-13,North,Home & Kitchen,Decor,Product_84,6,330.44,1982.64
+2024-04-16,Central,Home & Kitchen,Decor,Product_39,5,474.52,2372.6
+2024-10-06,South,Beauty,Skincare,Product_97,8,442.19,3537.52
+2024-05-19,North,Electronics,Laptop,Product_77,8,337.52,2700.16
+2024-10-05,East,Clothing,Women,Product_66,2,185.59,371.18
+2024-03-21,North,Sports,Indoor,Product_33,10,495.92,4959.2
+2024-06-23,North,Clothing,Kids,Product_34,3,23.4,70.2
+2024-09-19,North,Home & Kitchen,Appliances,Product_84,7,426.32,2984.24
+2024-04-18,East,Electronics,Tablet,Product_81,4,114.24,456.96
+2024-11-20,East,Sports,Outdoor,Product_20,3,231.97,695.91
+2024-07-03,South,Clothing,Kids,Product_24,7,387.14,2709.98
+2024-07-04,North,Electronics,Laptop,Product_88,1,393.21,393.21
+2024-12-23,Central,Electronics,Tablet,Product_1,1,151.46,151.46
+2024-03-15,East,Clothing,Women,Product_76,6,60.02,360.12
+2024-11-26,South,Sports,Indoor,Product_94,9,486.75,4380.75
+2024-01-05,North,Sports,Outdoor,Product_42,7,438.0,3066.0
+2024-11-21,East,Clothing,Kids,Product_75,8,173.43,1387.44
+2024-01-01,Central,Electronics,Mobile,Product_80,9,484.78,4363.02
+2024-03-09,South,Sports,Outdoor,Product_86,8,372.37,2978.96
+2024-02-02,North,Beauty,Makeup,Product_93,2,329.39,658.78
+2024-01-28,North,Home & Kitchen,Decor,Product_74,4,115.87,463.48
+2024-05-10,East,Electronics,Tablet,Product_96,5,38.4,192.0
+2024-11-02,East,Beauty,Haircare,Product_43,10,66.36,663.6
+2024-11-23,East,Sports,Indoor,Product_24,9,426.99,3842.91
+2024-02-26,South,Home & Kitchen,Furniture,Product_46,9,107.46,967.14
+2024-12-04,North,Electronics,Laptop,Product_55,3,205.95,617.85
+2024-11-21,South,Home & Kitchen,Decor,Product_74,1,344.63,344.63
+2024-04-29,Central,Beauty,Haircare,Product_77,4,438.36,1753.44
+2024-04-24,South,Electronics,Mobile,Product_51,4,497.42,1989.68
+2024-01-24,Central,Clothing,Kids,Product_94,9,326.68,2940.12
+2024-04-14,North,Home & Kitchen,Appliances,Product_7,10,94.1,941.0
+2024-07-23,East,Home & Kitchen,Decor,Product_69,9,153.34,1380.06
+2024-07-11,East,Home & Kitchen,Appliances,Product_10,9,463.74,4173.66
+2024-04-09,North,Beauty,Makeup,Product_1,1,472.1,472.1
+2024-04-01,South,Beauty,Makeup,Product_46,4,178.63,714.52
+2024-08-29,East,Clothing,Men,Product_34,7,333.35,2333.45
+2024-04-30,Central,Sports,Indoor,Product_90,6,284.95,1709.7
+2024-01-14,Central,Sports,Indoor,Product_61,2,439.4,878.8
+2024-07-20,North,Clothing,Kids,Product_7,8,188.33,1506.64
+2024-07-23,East,Beauty,Skincare,Product_80,9,189.53,1705.77
+2024-06-29,North,Electronics,Mobile,Product_80,3,163.29,489.87
+2024-04-26,Central,Clothing,Kids,Product_41,4,250.55,1002.2
+2024-03-16,East,Clothing,Men,Product_1,4,437.37,1749.48
+2024-12-04,East,Home & Kitchen,Furniture,Product_19,4,488.54,1954.16
+2024-08-29,West,Clothing,Kids,Product_13,9,153.15,1378.35
+2024-01-06,East,Electronics,Tablet,Product_19,6,451.85,2711.1
+2024-10-14,East,Clothing,Women,Product_32,6,479.43,2876.58
+2024-08-08,North,Clothing,Kids,Product_85,6,109.92,659.52
+2024-09-21,West,Electronics,Tablet,Product_54,10,491.84,4918.4
+2024-09-13,South,Sports,Fitness,Product_10,5,160.09,800.45
+2024-09-22,North,Electronics,Laptop,Product_19,9,164.69,1482.21
+2024-11-08,West,Electronics,Tablet,Product_5,6,126.19,757.14
+2024-07-13,Central,Home & Kitchen,Appliances,Product_95,8,497.44,3979.52
+2024-01-22,North,Electronics,Tablet,Product_27,7,425.11,2975.77
+2024-01-19,South,Beauty,Skincare,Product_87,9,383.14,3448.26
+2024-09-12,Central,Clothing,Kids,Product_1,5,45.56,227.8
+2024-02-11,North,Sports,Outdoor,Product_99,3,452.64,1357.92
+2024-06-07,West,Sports,Fitness,Product_46,4,490.35,1961.4
+2024-06-27,Central,Home & Kitchen,Decor,Product_2,4,351.41,1405.64
+2024-09-20,North,Clothing,Women,Product_69,8,473.6,3788.8
+2024-05-01,North,Home & Kitchen,Appliances,Product_5,9,366.88,3301.92
+2024-08-10,Central,Sports,Indoor,Product_76,3,477.41,1432.23
+2024-03-14,West,Sports,Indoor,Product_68,5,376.66,1883.3
+2024-05-27,East,Home & Kitchen,Furniture,Product_58,6,401.55,2409.3
+2024-09-28,South,Clothing,Men,Product_89,8,294.59,2356.72
+2024-08-24,Central,Home & Kitchen,Decor,Product_69,6,359.79,2158.74
+2024-04-11,East,Clothing,Men,Product_97,4,337.42,1349.68
+2024-11-02,Central,Clothing,Women,Product_76,8,431.9,3455.2
+2024-02-03,Central,Clothing,Women,Product_37,7,134.69,942.83
+2024-05-22,South,Electronics,Tablet,Product_43,6,99.96,599.76
+2024-10-03,East,Beauty,Makeup,Product_78,7,166.68,1166.76
+2024-09-22,East,Electronics,Tablet,Product_34,5,427.46,2137.3
+2024-10-24,Central,Clothing,Kids,Product_8,10,195.1,1951.0
+2024-01-23,East,Home & Kitchen,Decor,Product_78,2,22.25,44.5
+2024-12-15,North,Clothing,Men,Product_12,10,180.43,1804.3
+2024-01-22,East,Home & Kitchen,Decor,Product_95,3,449.01,1347.03
+2024-10-19,West,Electronics,Laptop,Product_92,7,143.1,1001.7
+2024-03-15,West,Beauty,Skincare,Product_21,10,459.54,4595.4
+2024-04-29,Central,Electronics,Tablet,Product_14,10,129.17,1291.7
+2024-11-22,West,Home & Kitchen,Appliances,Product_48,3,268.2,804.6
+2024-01-09,East,Sports,Indoor,Product_24,3,472.24,1416.72
+2024-02-11,North,Sports,Fitness,Product_95,10,402.7,4027.0
+2024-12-03,West,Beauty,Skincare,Product_1,2,154.44,308.88
+2024-11-01,Central,Beauty,Makeup,Product_32,8,29.45,235.6
+2024-10-13,West,Electronics,Laptop,Product_87,3,25.75,77.25
+2024-12-04,South,Electronics,Mobile,Product_64,4,487.35,1949.4
+2024-08-18,Central,Beauty,Haircare,Product_69,3,172.42,517.26
+2024-11-14,East,Electronics,Laptop,Product_89,6,407.6,2445.6
+2024-10-31,North,Electronics,Laptop,Product_23,8,484.24,3873.92
+2024-08-14,West,Clothing,Kids,Product_25,8,310.81,2486.48
+2024-08-29,West,Clothing,Men,Product_88,6,68.23,409.38
+2024-03-18,Central,Home & Kitchen,Decor,Product_47,10,249.96,2499.6
+2024-10-22,East,Electronics,Tablet,Product_92,3,395.18,1185.54
+2024-01-13,South,Clothing,Women,Product_42,4,359.39,1437.56
+2024-10-23,East,Sports,Fitness,Product_39,7,56.37,394.59
+2024-03-04,West,Beauty,Skincare,Product_26,4,378.53,1514.12
+2024-06-25,East,Home & Kitchen,Furniture,Product_18,6,214.46,1286.76
+2024-02-23,East,Sports,Fitness,Product_70,4,37.21,148.84
+2024-08-30,North,Electronics,Tablet,Product_46,9,244.17,2197.53
+2024-02-18,West,Home & Kitchen,Furniture,Product_98,4,372.59,1490.36
+2024-11-15,West,Beauty,Makeup,Product_96,2,436.58,873.16
+2024-12-07,Central,Electronics,Laptop,Product_2,5,268.89,1344.45
+2024-09-28,East,Sports,Fitness,Product_24,7,334.63,2342.41
+2024-02-07,North,Clothing,Women,Product_91,2,441.34,882.68
+2024-09-06,South,Sports,Indoor,Product_75,9,217.77,1959.93
+2024-08-07,South,Electronics,Tablet,Product_28,5,178.67,893.35
+2024-07-12,South,Home & Kitchen,Furniture,Product_23,8,101.22,809.76
+2024-10-29,Central,Clothing,Men,Product_20,2,360.38,720.76
+2024-12-12,Central,Home & Kitchen,Appliances,Product_38,4,299.3,1197.2
+2024-05-09,Central,Sports,Indoor,Product_46,2,25.07,50.14
+2024-10-31,West,Electronics,Tablet,Product_54,7,180.32,1262.24
+2024-02-10,West,Clothing,Kids,Product_8,7,184.55,1291.85
+2024-09-05,South,Electronics,Mobile,Product_53,5,329.08,1645.4
+2024-10-31,East,Clothing,Kids,Product_94,10,143.82,1438.2
+2024-07-24,South,Beauty,Makeup,Product_30,7,194.65,1362.55
+2024-02-28,West,Electronics,Tablet,Product_95,5,294.07,1470.35
+2024-01-17,Central,Sports,Outdoor,Product_56,6,180.02,1080.12
+2024-04-06,South,Electronics,Mobile,Product_97,2,261.91,523.82
+2024-12-26,South,Home & Kitchen,Furniture,Product_31,6,438.63,2631.78
+2024-04-05,West,Home & Kitchen,Furniture,Product_80,8,248.68,1989.44
+2024-08-04,South,Home & Kitchen,Furniture,Product_92,8,155.76,1246.08
+2024-12-18,North,Electronics,Laptop,Product_5,3,136.12,408.36
+2024-01-19,North,Sports,Indoor,Product_39,1,209.57,209.57
+2024-02-10,Central,Home & Kitchen,Appliances,Product_13,10,238.25,2382.5
+2024-05-01,North,Sports,Fitness,Product_68,3,220.77,662.31
+2024-10-25,South,Beauty,Haircare,Product_40,9,479.11,4311.99
+2024-04-19,East,Beauty,Skincare,Product_97,2,308.78,617.56
+2024-07-08,East,Home & Kitchen,Decor,Product_9,10,313.31,3133.1
+2024-03-01,South,Home & Kitchen,Decor,Product_10,6,224.79,1348.74
+2024-04-17,Central,Clothing,Kids,Product_39,1,20.51,20.51
+2024-04-12,West,Electronics,Laptop,Product_90,5,41.67,208.35
+2024-10-12,South,Sports,Indoor,Product_86,10,345.73,3457.3
+2024-08-21,North,Sports,Outdoor,Product_55,2,75.51,151.02
+2024-02-22,North,Beauty,Makeup,Product_20,7,330.87,2316.09
+2024-12-07,South,Clothing,Kids,Product_48,9,204.27,1838.43
+2024-01-14,East,Beauty,Skincare,Product_32,10,47.6,476.0
+2024-08-15,Central,Sports,Indoor,Product_43,7,352.5,2467.5
+2024-01-20,South,Beauty,Haircare,Product_50,9,49.13,442.17
+2024-04-12,West,Electronics,Mobile,Product_53,7,336.88,2358.16
+2024-01-09,Central,Beauty,Haircare,Product_55,4,169.75,679.0
+2024-06-25,South,Electronics,Laptop,Product_72,8,192.69,1541.52
+2024-10-21,West,Clothing,Kids,Product_47,10,249.99,2499.9
+2024-07-23,East,Sports,Fitness,Product_9,3,213.53,640.59
+2024-10-03,West,Beauty,Skincare,Product_57,10,106.58,1065.8
+2024-09-29,West,Clothing,Women,Product_99,4,237.09,948.36
+2024-07-22,South,Home & Kitchen,Appliances,Product_5,7,350.02,2450.14
+2024-08-02,South,Home & Kitchen,Decor,Product_50,9,123.34,1110.06
+2024-09-07,North,Electronics,Mobile,Product_99,5,481.72,2408.6
+2024-01-22,North,Beauty,Makeup,Product_88,7,103.61,725.27
+2024-03-09,West,Clothing,Kids,Product_2,2,466.36,932.72
+2024-04-19,East,Clothing,Men,Product_51,5,79.92,399.6
+2024-02-27,West,Beauty,Haircare,Product_60,3,180.1,540.3
+2024-06-13,West,Sports,Indoor,Product_20,4,293.27,1173.08
+2024-07-08,North,Home & Kitchen,Furniture,Product_10,4,133.84,535.36
+2024-03-08,East,Clothing,Men,Product_68,9,361.49,3253.41
+2024-09-09,North,Sports,Outdoor,Product_3,4,473.76,1895.04
+2024-03-25,East,Clothing,Kids,Product_11,2,233.27,466.54
+2024-11-18,South,Electronics,Tablet,Product_29,8,248.96,1991.68
+2024-02-04,West,Sports,Fitness,Product_63,5,83.27,416.35
+2024-09-14,South,Sports,Fitness,Product_7,9,192.29,1730.61
+2024-03-02,South,Home & Kitchen,Decor,Product_88,2,43.88,87.76
+2024-04-11,South,Home & Kitchen,Decor,Product_48,9,405.01,3645.09
+2024-07-11,West,Electronics,Laptop,Product_96,6,27.9,167.4
+2024-03-23,North,Sports,Indoor,Product_47,3,342.5,1027.5
+2024-02-12,West,Beauty,Skincare,Product_17,4,385.57,1542.28
+2024-10-06,South,Home & Kitchen,Furniture,Product_58,5,382.24,1911.2
+2024-03-02,West,Beauty,Skincare,Product_64,6,273.49,1640.94
+2024-08-23,North,Home & Kitchen,Furniture,Product_30,6,464.72,2788.32
+2024-04-10,West,Home & Kitchen,Appliances,Product_17,3,424.79,1274.37
+2024-06-05,East,Home & Kitchen,Appliances,Product_65,5,495.34,2476.7
+2024-01-22,South,Home & Kitchen,Furniture,Product_33,6,26.51,159.06
+2024-11-27,East,Home & Kitchen,Furniture,Product_78,6,202.13,1212.78
+2024-11-11,Central,Home & Kitchen,Furniture,Product_92,8,175.64,1405.12
+2024-03-21,East,Home & Kitchen,Furniture,Product_25,1,181.56,181.56
+2024-01-07,Central,Beauty,Haircare,Product_18,10,480.14,4801.4
+2024-08-06,North,Beauty,Haircare,Product_4,4,65.88,263.52
+2024-07-07,East,Sports,Fitness,Product_50,8,224.91,1799.28
+2024-10-19,Central,Sports,Fitness,Product_92,6,435.78,2614.68
+2024-08-03,South,Sports,Fitness,Product_51,3,473.36,1420.08
+2024-12-30,Central,Beauty,Makeup,Product_63,10,453.17,4531.7
+2024-12-10,West,Clothing,Kids,Product_49,3,112.1,336.3
+2024-01-05,West,Clothing,Kids,Product_61,10,182.29,1822.9
+2024-08-12,East,Clothing,Women,Product_83,3,96.39,289.17
+2024-06-12,North,Sports,Indoor,Product_70,3,27.06,81.18
+2024-04-07,Central,Electronics,Mobile,Product_84,6,344.5,2067.0
+2024-03-02,Central,Clothing,Women,Product_90,3,91.57,274.71
+2024-03-21,West,Electronics,Laptop,Product_59,8,454.68,3637.44
+2024-12-12,East,Beauty,Skincare,Product_47,4,326.34,1305.36
+2024-02-07,West,Beauty,Makeup,Product_53,4,46.02,184.08
+2024-10-12,North,Clothing,Men,Product_20,6,337.0,2022.0
+2024-06-22,East,Clothing,Men,Product_56,4,429.83,1719.32
+2024-07-29,East,Electronics,Laptop,Product_10,6,313.0,1878.0
+2024-11-16,Central,Beauty,Skincare,Product_78,1,429.34,429.34
+2024-03-15,South,Beauty,Skincare,Product_62,9,464.13,4177.17
+2024-08-16,North,Beauty,Skincare,Product_71,10,249.57,2495.7
+2024-02-01,East,Beauty,Makeup,Product_86,10,413.13,4131.3
+2024-05-02,South,Electronics,Mobile,Product_81,9,226.88,2041.92
+2024-07-29,East,Electronics,Laptop,Product_1,4,212.38,849.52
+2024-04-04,West,Electronics,Laptop,Product_18,6,267.87,1607.22
+2024-04-13,East,Beauty,Skincare,Product_29,2,472.23,944.46
+2024-02-19,West,Clothing,Men,Product_54,10,66.03,660.3
+2024-09-10,West,Home & Kitchen,Appliances,Product_20,3,121.12,363.36
+2024-02-04,Central,Beauty,Skincare,Product_58,2,373.01,746.02
+2024-06-24,South,Beauty,Haircare,Product_26,7,246.28,1723.96
+2024-05-08,South,Sports,Fitness,Product_44,7,206.75,1447.25
+2024-04-02,Central,Home & Kitchen,Furniture,Product_92,5,186.5,932.5
+2024-11-26,North,Electronics,Laptop,Product_63,5,203.79,1018.95
+2024-08-26,Central,Sports,Indoor,Product_60,4,401.61,1606.44
+2024-05-12,West,Home & Kitchen,Decor,Product_77,5,427.8,2139.0
+2024-06-23,South,Sports,Indoor,Product_82,3,480.2,1440.6
+2024-07-22,Central,Sports,Indoor,Product_56,6,272.53,1635.18
+2024-02-11,East,Beauty,Haircare,Product_26,8,432.37,3458.96
+2024-11-23,South,Home & Kitchen,Appliances,Product_66,8,65.32,522.56
+2024-09-04,East,Clothing,Kids,Product_99,2,147.55,295.1
+2024-07-21,Central,Clothing,Women,Product_34,2,333.83,667.66
+2024-10-09,South,Home & Kitchen,Appliances,Product_72,10,404.94,4049.4
+2024-05-24,West,Sports,Outdoor,Product_72,5,240.83,1204.15
+2024-10-22,Central,Electronics,Laptop,Product_45,10,487.25,4872.5
+2024-02-29,East,Sports,Indoor,Product_14,10,271.76,2717.6
+2024-12-21,South,Home & Kitchen,Appliances,Product_24,6,245.99,1475.94
+2024-08-23,North,Electronics,Tablet,Product_94,8,248.66,1989.28
+2024-04-26,West,Clothing,Women,Product_39,8,174.8,1398.4
+2024-06-03,North,Home & Kitchen,Appliances,Product_75,9,401.67,3615.03
+2024-02-23,West,Electronics,Tablet,Product_71,3,106.23,318.69
+2024-02-02,Central,Sports,Fitness,Product_89,5,154.88,774.4
+2024-07-25,East,Home & Kitchen,Decor,Product_72,7,354.95,2484.65
+2024-06-19,South,Beauty,Haircare,Product_62,10,309.07,3090.7
+2024-04-12,East,Sports,Indoor,Product_22,4,377.01,1508.04
+2024-03-28,South,Sports,Outdoor,Product_21,4,463.46,1853.84
+2024-10-10,North,Home & Kitchen,Appliances,Product_25,4,404.17,1616.68
+2024-04-27,Central,Electronics,Tablet,Product_96,8,321.14,2569.12
+2024-02-29,Central,Clothing,Men,Product_18,9,349.44,3144.96
+2024-12-06,Central,Beauty,Makeup,Product_90,6,361.76,2170.56
+2024-09-02,South,Sports,Outdoor,Product_13,1,310.47,310.47
+2024-12-25,Central,Home & Kitchen,Furniture,Product_53,7,47.31,331.17
+2024-02-13,Central,Clothing,Women,Product_78,6,291.12,1746.72
+2024-12-09,Central,Beauty,Haircare,Product_100,1,420.52,420.52
+2024-09-16,East,Home & Kitchen,Decor,Product_6,8,120.42,963.36
+2024-11-21,Central,Electronics,Mobile,Product_26,2,293.11,586.22
+2024-01-21,South,Electronics,Mobile,Product_58,8,135.2,1081.6
+2024-05-17,North,Home & Kitchen,Furniture,Product_46,4,282.84,1131.36
+2024-01-23,East,Home & Kitchen,Furniture,Product_45,7,275.29,1927.03
+2024-09-25,South,Beauty,Makeup,Product_83,3,147.4,442.2
+2024-10-31,Central,Sports,Fitness,Product_24,6,109.79,658.74
+2024-09-04,South,Beauty,Haircare,Product_43,8,172.96,1383.68
+2024-12-20,East,Electronics,Laptop,Product_60,3,421.82,1265.46
+2024-03-13,West,Sports,Indoor,Product_34,10,163.89,1638.9
+2024-05-02,South,Sports,Indoor,Product_57,4,197.28,789.12
+2024-03-01,South,Clothing,Women,Product_56,3,49.11,147.33
+2024-02-02,South,Sports,Indoor,Product_99,9,267.45,2407.05
+2024-01-01,North,Beauty,Makeup,Product_53,7,10.89,76.23
+2024-12-14,North,Electronics,Mobile,Product_72,5,281.38,1406.9
+2024-03-22,West,Beauty,Makeup,Product_44,2,347.4,694.8
+2024-07-12,East,Beauty,Skincare,Product_83,4,33.23,132.92
+2024-05-27,East,Electronics,Tablet,Product_45,10,186.28,1862.8
+2024-07-08,East,Home & Kitchen,Decor,Product_10,4,237.71,950.84
+2024-04-21,South,Home & Kitchen,Furniture,Product_2,9,350.69,3156.21
+2024-08-10,West,Home & Kitchen,Decor,Product_56,5,481.64,2408.2
+2024-03-23,East,Beauty,Makeup,Product_92,8,274.39,2195.12
+2024-08-28,East,Sports,Outdoor,Product_48,2,86.12,172.24
+2024-01-30,West,Beauty,Makeup,Product_44,7,171.58,1201.06
+2024-11-14,Central,Home & Kitchen,Furniture,Product_35,2,255.25,510.5
+2024-03-28,West,Home & Kitchen,Decor,Product_38,10,21.11,211.1
+2024-03-02,Central,Home & Kitchen,Furniture,Product_35,10,377.66,3776.6
+2024-02-24,South,Home & Kitchen,Furniture,Product_20,7,429.05,3003.35
+2024-04-05,West,Beauty,Skincare,Product_42,10,22.7,227.0
+2024-05-31,East,Home & Kitchen,Appliances,Product_62,8,95.82,766.56
+2024-08-14,North,Electronics,Tablet,Product_16,8,187.84,1502.72
+2024-05-28,North,Sports,Indoor,Product_87,5,216.84,1084.2
+2024-04-25,West,Sports,Indoor,Product_45,8,383.7,3069.6
+2024-05-16,Central,Home & Kitchen,Furniture,Product_58,3,443.66,1330.98
+2024-09-17,North,Clothing,Women,Product_2,5,326.47,1632.35
+2024-05-25,North,Home & Kitchen,Furniture,Product_82,7,321.32,2249.24
+2024-02-23,South,Sports,Indoor,Product_83,9,262.75,2364.75
+2024-10-27,West,Clothing,Men,Product_44,4,102.1,408.4
+2024-05-07,Central,Clothing,Kids,Product_9,8,480.01,3840.08
+2024-12-22,West,Home & Kitchen,Appliances,Product_13,4,321.15,1284.6
+2024-04-13,West,Beauty,Skincare,Product_62,10,334.4,3344.0
+2024-08-18,West,Electronics,Mobile,Product_31,9,280.37,2523.33
+2024-09-26,Central,Home & Kitchen,Appliances,Product_95,1,376.59,376.59
+2024-09-16,South,Electronics,Mobile,Product_26,10,52.81,528.1
+2024-06-30,South,Sports,Outdoor,Product_23,10,439.38,4393.8
+2024-05-26,East,Home & Kitchen,Appliances,Product_39,8,479.95,3839.6
+2024-08-21,Central,Electronics,Tablet,Product_21,1,448.57,448.57
+2024-01-27,Central,Sports,Indoor,Product_68,6,310.42,1862.52
+2024-01-09,West,Electronics,Mobile,Product_33,9,200.09,1800.81
+2024-01-31,East,Sports,Outdoor,Product_24,4,404.07,1616.28
+2024-06-03,South,Sports,Fitness,Product_83,7,148.45,1039.15
+2024-07-26,South,Beauty,Haircare,Product_10,10,62.64,626.4
+2024-12-06,East,Clothing,Kids,Product_52,3,475.65,1426.95
+2024-03-03,East,Home & Kitchen,Decor,Product_2,5,252.9,1264.5
+2024-02-21,West,Beauty,Makeup,Product_18,9,139.06,1251.54
+2024-08-16,Central,Beauty,Haircare,Product_39,10,356.69,3566.9
+2024-09-10,South,Home & Kitchen,Decor,Product_1,7,238.05,1666.35
+2024-07-06,East,Sports,Fitness,Product_50,9,461.77,4155.93
+2024-07-16,East,Clothing,Men,Product_89,1,436.74,436.74
+2024-09-05,West,Clothing,Kids,Product_10,5,201.51,1007.55
+2024-06-25,North,Clothing,Women,Product_37,9,437.89,3941.01
+2024-09-11,North,Electronics,Laptop,Product_37,8,10.63,85.04
+2024-12-08,South,Beauty,Skincare,Product_70,10,197.88,1978.8
+2024-11-24,South,Electronics,Mobile,Product_86,8,53.97,431.76
+2024-01-20,South,Sports,Fitness,Product_5,9,428.49,3856.41
+2024-04-11,North,Home & Kitchen,Decor,Product_23,7,250.26,1751.82
+2024-05-27,East,Electronics,Tablet,Product_46,8,400.91,3207.28
+2024-02-19,South,Beauty,Haircare,Product_49,6,200.88,1205.28
+2024-12-03,East,Beauty,Haircare,Product_93,4,296.98,1187.92
+2024-03-01,Central,Clothing,Men,Product_80,2,327.74,655.48
+2024-12-18,East,Clothing,Kids,Product_33,6,416.81,2500.86
+2024-12-09,West,Home & Kitchen,Appliances,Product_3,10,332.07,3320.7
+2024-03-04,North,Clothing,Men,Product_11,2,161.21,322.42
+2024-04-04,West,Beauty,Skincare,Product_19,4,489.32,1957.28
+2024-05-26,North,Electronics,Laptop,Product_79,9,393.67,3543.03
+2024-12-20,East,Clothing,Women,Product_53,9,273.6,2462.4
+2024-03-04,Central,Electronics,Tablet,Product_5,1,103.04,103.04
+2024-12-01,North,Sports,Outdoor,Product_40,6,282.05,1692.3
+2024-01-22,Central,Electronics,Mobile,Product_27,2,69.3,138.6
+2024-12-07,South,Home & Kitchen,Furniture,Product_12,4,371.21,1484.84
+2024-05-26,East,Clothing,Women,Product_33,5,244.98,1224.9
+2024-12-25,North,Beauty,Skincare,Product_84,6,38.33,229.98
+2024-11-16,North,Electronics,Tablet,Product_71,3,446.23,1338.69
+2024-04-19,West,Electronics,Tablet,Product_46,6,491.39,2948.34
+2024-08-02,East,Clothing,Men,Product_9,10,459.34,4593.4
+2024-10-25,East,Beauty,Skincare,Product_46,9,443.31,3989.79
+2024-03-28,North,Electronics,Laptop,Product_79,1,471.7,471.7
+2024-01-03,West,Beauty,Makeup,Product_45,2,85.79,171.58
+2024-12-24,North,Beauty,Haircare,Product_92,1,318.19,318.19
+2024-09-08,West,Home & Kitchen,Furniture,Product_5,1,105.8,105.8
+2024-07-13,West,Home & Kitchen,Furniture,Product_62,1,499.54,499.54
+2024-05-31,West,Beauty,Makeup,Product_92,2,178.83,357.66
+2024-10-06,West,Beauty,Haircare,Product_21,9,401.13,3610.17
+2024-11-24,North,Beauty,Makeup,Product_54,8,242.23,1937.84
+2024-09-05,Central,Home & Kitchen,Furniture,Product_45,1,402.03,402.03
+2024-10-16,South,Home & Kitchen,Decor,Product_42,5,347.87,1739.35
+2024-10-16,West,Clothing,Men,Product_15,10,295.14,2951.4
+2024-06-30,Central,Beauty,Haircare,Product_39,1,190.86,190.86
+2024-07-19,Central,Home & Kitchen,Appliances,Product_15,1,368.71,368.71
+2024-06-13,Central,Clothing,Women,Product_59,9,384.58,3461.22
+2024-08-14,West,Electronics,Mobile,Product_60,4,487.27,1949.08
+2024-04-12,South,Electronics,Laptop,Product_32,3,184.09,552.27
+2024-05-26,Central,Electronics,Laptop,Product_10,1,199.98,199.98
+2024-02-20,North,Electronics,Laptop,Product_89,6,230.05,1380.3
+2024-03-13,South,Electronics,Tablet,Product_6,3,339.85,1019.55
+2024-06-06,East,Home & Kitchen,Furniture,Product_34,1,229.68,229.68
+2024-06-27,East,Electronics,Tablet,Product_73,3,295.7,887.1
+2024-11-29,East,Sports,Fitness,Product_45,4,10.38,41.52
+2024-09-10,Central,Sports,Outdoor,Product_80,3,20.69,62.07
+2024-09-15,East,Clothing,Women,Product_36,6,311.32,1867.92
+2024-09-15,West,Electronics,Tablet,Product_1,4,461.44,1845.76
+2024-09-28,South,Electronics,Mobile,Product_48,5,461.9,2309.5
+2024-08-28,Central,Clothing,Men,Product_28,4,199.53,798.12
+2024-09-21,East,Sports,Fitness,Product_59,2,375.59,751.18
+2024-03-28,North,Electronics,Laptop,Product_5,6,96.73,580.38
+2024-06-24,West,Beauty,Haircare,Product_9,2,489.12,978.24
+2024-07-18,North,Electronics,Mobile,Product_25,6,33.17,199.02
+2024-10-21,West,Clothing,Kids,Product_33,1,316.28,316.28
+2024-08-15,East,Sports,Outdoor,Product_18,4,143.64,574.56
+2024-05-11,East,Clothing,Women,Product_12,2,107.11,214.22
+2024-08-13,Central,Sports,Indoor,Product_42,4,279.01,1116.04
+2024-01-24,West,Home & Kitchen,Decor,Product_35,4,41.84,167.36
+2024-05-31,East,Beauty,Makeup,Product_70,9,46.49,418.41
+2024-03-18,South,Beauty,Haircare,Product_65,8,352.34,2818.72
+2024-11-17,West,Clothing,Women,Product_52,9,111.6,1004.4
+2024-05-28,South,Clothing,Women,Product_42,2,75.38,150.76
+2024-12-28,West,Electronics,Mobile,Product_46,1,299.72,299.72
+2024-10-17,Central,Home & Kitchen,Appliances,Product_20,5,485.4,2427.0
+2024-11-02,Central,Electronics,Tablet,Product_64,6,153.32,919.92
+2024-06-29,Central,Clothing,Women,Product_64,1,391.43,391.43
+2024-09-23,Central,Electronics,Tablet,Product_81,5,409.58,2047.9
+2024-08-25,West,Beauty,Haircare,Product_77,10,249.09,2490.9
+2024-08-29,North,Electronics,Mobile,Product_62,6,465.37,2792.22
+2024-02-03,East,Beauty,Skincare,Product_94,5,13.63,68.15
+2024-09-07,Central,Beauty,Makeup,Product_100,1,173.95,173.95
+2024-02-16,East,Sports,Indoor,Product_10,10,447.58,4475.8
+2024-06-21,Central,Beauty,Skincare,Product_75,7,455.61,3189.27
+2024-12-26,North,Electronics,Mobile,Product_16,7,457.73,3204.11
+2024-03-15,South,Electronics,Mobile,Product_90,4,37.27,149.08
+2024-03-21,Central,Electronics,Laptop,Product_54,1,117.33,117.33
+2024-09-10,Central,Sports,Indoor,Product_1,9,232.36,2091.24
+2024-10-11,Central,Sports,Indoor,Product_6,2,132.98,265.96
+2024-04-20,East,Home & Kitchen,Decor,Product_18,8,277.67,2221.36
+2024-04-16,North,Sports,Outdoor,Product_89,4,360.14,1440.56
+2024-05-26,South,Home & Kitchen,Furniture,Product_40,5,77.49,387.45
+2024-01-31,South,Sports,Fitness,Product_38,2,27.37,54.74
+2024-07-01,South,Clothing,Women,Product_33,9,115.23,1037.07
+2024-11-02,North,Beauty,Haircare,Product_39,2,217.79,435.58
+2024-04-23,North,Beauty,Haircare,Product_1,9,447.58,4028.22
+2024-01-03,West,Home & Kitchen,Appliances,Product_81,7,355.97,2491.79
+2024-11-21,South,Sports,Indoor,Product_80,9,493.28,4439.52
+2024-05-12,South,Sports,Fitness,Product_92,4,248.68,994.72
+2024-01-13,North,Clothing,Women,Product_41,4,336.76,1347.04
+2024-03-14,West,Clothing,Men,Product_16,1,236.25,236.25
+2024-10-25,West,Clothing,Kids,Product_36,8,381.88,3055.04
+2024-11-23,West,Clothing,Kids,Product_86,9,158.96,1430.64
+2024-12-03,East,Clothing,Women,Product_42,7,210.92,1476.44
+2024-04-24,West,Sports,Outdoor,Product_9,3,271.54,814.62
+2024-03-28,West,Electronics,Tablet,Product_96,8,177.41,1419.28
+2024-10-01,South,Home & Kitchen,Appliances,Product_57,9,309.31,2783.79
+2024-12-07,South,Clothing,Kids,Product_91,2,478.18,956.36
+2024-08-20,North,Clothing,Kids,Product_65,8,215.19,1721.52
+2024-02-21,East,Sports,Outdoor,Product_2,3,64.36,193.08
+2024-06-04,West,Clothing,Men,Product_85,4,53.56,214.24
+2024-07-31,North,Beauty,Skincare,Product_49,10,265.99,2659.9
+2024-05-31,East,Sports,Outdoor,Product_78,4,256.6,1026.4
+2024-07-31,West,Sports,Fitness,Product_94,7,217.02,1519.14
+2024-03-29,Central,Beauty,Haircare,Product_38,1,321.03,321.03
+2024-05-05,North,Sports,Fitness,Product_65,6,25.72,154.32
+2024-04-05,East,Sports,Outdoor,Product_85,2,257.12,514.24
+2024-05-13,West,Clothing,Women,Product_59,6,116.03,696.18
+2024-05-18,Central,Clothing,Men,Product_51,4,419.09,1676.36
+2024-10-20,East,Home & Kitchen,Appliances,Product_39,2,165.04,330.08
+2024-07-24,South,Beauty,Skincare,Product_91,3,101.34,304.02
+2024-02-25,West,Home & Kitchen,Appliances,Product_19,1,314.25,314.25
+2024-06-15,South,Electronics,Tablet,Product_78,5,56.14,280.7
+2024-08-30,West,Home & Kitchen,Decor,Product_63,3,144.62,433.86
+2024-07-03,Central,Clothing,Women,Product_99,4,477.86,1911.44
+2024-10-10,West,Clothing,Women,Product_27,2,429.62,859.24
+2024-03-28,North,Home & Kitchen,Furniture,Product_85,4,440.38,1761.52
+2024-04-09,East,Sports,Fitness,Product_11,7,459.01,3213.07
+2024-04-21,North,Sports,Outdoor,Product_94,5,495.96,2479.8
+2024-02-13,West,Home & Kitchen,Furniture,Product_2,4,100.25,401.0
+2024-05-18,East,Sports,Indoor,Product_50,8,465.62,3724.96
+2024-03-21,South,Electronics,Tablet,Product_89,5,111.52,557.6
+2024-07-14,West,Beauty,Makeup,Product_33,10,443.95,4439.5
+2024-12-30,Central,Electronics,Mobile,Product_4,5,56.65,283.25
+2024-05-10,East,Sports,Fitness,Product_74,4,171.25,685.0
+2024-08-14,East,Sports,Outdoor,Product_87,4,488.08,1952.32
+2024-03-16,North,Clothing,Women,Product_15,3,499.16,1497.48
+2024-08-20,Central,Electronics,Laptop,Product_91,3,402.97,1208.91
+2024-05-16,West,Home & Kitchen,Furniture,Product_89,4,295.43,1181.72
+2024-09-24,West,Electronics,Mobile,Product_73,2,249.24,498.48
+2024-06-06,South,Home & Kitchen,Appliances,Product_25,9,91.19,820.71
+2024-10-22,South,Clothing,Kids,Product_27,3,28.75,86.25
+2024-04-10,West,Clothing,Kids,Product_56,7,373.89,2617.23
+2024-04-13,Central,Sports,Outdoor,Product_65,5,128.85,644.25
+2024-08-17,North,Electronics,Mobile,Product_80,5,88.21,441.05
+2024-03-27,North,Clothing,Kids,Product_38,4,123.12,492.48
+2024-10-13,North,Electronics,Mobile,Product_57,7,192.14,1344.98
+2024-04-27,South,Beauty,Skincare,Product_32,9,46.47,418.23
+2024-01-22,Central,Home & Kitchen,Furniture,Product_70,2,101.04,202.08
+2024-03-29,North,Beauty,Haircare,Product_62,7,96.24,673.68
+2024-07-23,North,Beauty,Makeup,Product_56,9,458.74,4128.66
+2024-02-17,North,Home & Kitchen,Appliances,Product_38,8,121.66,973.28
+2024-06-16,Central,Home & Kitchen,Decor,Product_94,5,33.17,165.85
+2024-12-05,North,Beauty,Haircare,Product_49,10,494.16,4941.6
+2024-12-01,West,Sports,Indoor,Product_69,2,157.57,315.14
+2024-04-06,West,Electronics,Tablet,Product_85,9,307.04,2763.36
+2024-04-01,West,Clothing,Men,Product_93,7,460.98,3226.86
+2024-08-15,Central,Home & Kitchen,Appliances,Product_71,3,68.75,206.25
+2024-03-27,East,Home & Kitchen,Furniture,Product_34,6,218.66,1311.96
+2024-06-04,South,Clothing,Men,Product_84,4,319.71,1278.84
+2024-01-09,East,Clothing,Men,Product_53,3,58.93,176.79
+2024-02-09,West,Sports,Outdoor,Product_27,5,43.69,218.45
+2024-08-18,Central,Beauty,Makeup,Product_81,7,113.81,796.67
+2024-10-10,North,Home & Kitchen,Furniture,Product_23,4,188.19,752.76
+2024-01-13,Central,Clothing,Men,Product_83,1,156.59,156.59
+2024-11-03,Central,Electronics,Mobile,Product_29,6,127.12,762.72
+2024-09-25,West,Beauty,Makeup,Product_90,6,69.21,415.26
+2024-10-30,South,Sports,Outdoor,Product_77,4,446.78,1787.12
+2024-07-16,East,Clothing,Men,Product_18,4,264.88,1059.52
+2024-02-11,North,Beauty,Haircare,Product_100,8,187.2,1497.6
+2024-11-30,West,Sports,Indoor,Product_42,2,430.41,860.82
+2024-06-21,East,Sports,Indoor,Product_50,5,55.42,277.1
+2024-01-15,South,Sports,Fitness,Product_74,1,112.5,112.5
+2024-01-22,Central,Clothing,Men,Product_39,1,302.39,302.39
+2024-09-21,Central,Sports,Outdoor,Product_43,2,487.03,974.06
+2024-08-15,South,Clothing,Kids,Product_19,9,13.64,122.76
+2024-09-10,South,Home & Kitchen,Appliances,Product_19,6,262.68,1576.08
+2024-11-13,South,Beauty,Makeup,Product_49,9,121.75,1095.75
+2024-12-08,South,Sports,Outdoor,Product_79,2,189.67,379.34
+2024-01-09,West,Sports,Fitness,Product_66,6,77.15,462.9
+2024-09-07,South,Beauty,Makeup,Product_10,6,360.11,2160.66
+2024-06-21,East,Home & Kitchen,Appliances,Product_94,1,434.13,434.13
+2024-11-12,North,Home & Kitchen,Furniture,Product_13,10,184.4,1844.0
+2024-08-08,South,Sports,Indoor,Product_57,10,470.2,4702.0
+2024-05-28,Central,Electronics,Laptop,Product_7,8,244.64,1957.12
+2024-01-21,Central,Sports,Fitness,Product_90,4,468.54,1874.16
+2024-03-24,North,Sports,Fitness,Product_70,5,15.08,75.4
+2024-09-16,Central,Beauty,Skincare,Product_31,9,342.5,3082.5
+2024-07-20,South,Sports,Outdoor,Product_20,5,11.35,56.75
+2024-07-22,South,Home & Kitchen,Appliances,Product_42,6,451.41,2708.46
+2024-02-09,North,Electronics,Mobile,Product_46,2,122.49,244.98
+2024-03-22,East,Sports,Indoor,Product_60,9,68.68,618.12
+2024-07-12,South,Electronics,Mobile,Product_45,10,296.33,2963.3
+2024-11-02,Central,Home & Kitchen,Furniture,Product_91,3,166.66,499.98
+2024-11-20,North,Home & Kitchen,Decor,Product_90,2,62.62,125.24
+2024-11-26,East,Clothing,Kids,Product_1,1,55.44,55.44
+2024-04-30,North,Home & Kitchen,Appliances,Product_89,6,324.79,1948.74
+2024-03-03,East,Electronics,Tablet,Product_67,2,29.53,59.06
+2024-07-25,Central,Clothing,Kids,Product_4,4,472.98,1891.92
+2024-04-04,West,Home & Kitchen,Decor,Product_76,3,337.31,1011.93
+2024-11-21,South,Sports,Indoor,Product_96,4,25.09,100.36
+2024-02-11,West,Clothing,Women,Product_83,9,90.58,815.22
+2024-06-21,East,Clothing,Men,Product_36,6,220.96,1325.76
+2024-06-19,South,Electronics,Tablet,Product_24,10,417.57,4175.7
+2024-04-12,South,Clothing,Men,Product_52,5,116.73,583.65
+2024-08-31,North,Sports,Outdoor,Product_39,5,200.63,1003.15
+2024-08-17,North,Beauty,Skincare,Product_86,10,176.4,1764.0
+2024-03-04,South,Sports,Fitness,Product_72,8,378.04,3024.32
+2024-10-14,North,Clothing,Women,Product_98,2,272.36,544.72
+2024-05-02,Central,Clothing,Kids,Product_48,6,478.44,2870.64
+2024-03-06,West,Beauty,Skincare,Product_56,10,156.54,1565.4
+2024-05-05,South,Beauty,Makeup,Product_71,8,385.31,3082.48
+2024-12-25,Central,Clothing,Women,Product_11,10,493.36,4933.6
+2024-02-04,North,Clothing,Kids,Product_17,4,437.26,1749.04
+2024-03-01,South,Electronics,Tablet,Product_20,10,54.95,549.5
+2024-04-22,Central,Beauty,Makeup,Product_45,1,273.23,273.23
+2024-03-13,North,Beauty,Makeup,Product_14,10,229.77,2297.7
+2024-04-08,Central,Beauty,Makeup,Product_12,3,120.83,362.49
+2024-05-18,Central,Beauty,Haircare,Product_57,3,162.74,488.22
+2024-04-20,North,Electronics,Tablet,Product_93,1,296.25,296.25
+2024-12-26,South,Home & Kitchen,Decor,Product_75,2,376.49,752.98
+2024-10-24,West,Beauty,Skincare,Product_15,8,405.72,3245.76
+2024-03-03,North,Clothing,Men,Product_65,3,47.8,143.4
+2024-06-21,Central,Home & Kitchen,Appliances,Product_2,3,21.68,65.04
+2024-05-05,East,Home & Kitchen,Furniture,Product_26,9,142.97,1286.73
+2024-06-24,Central,Beauty,Haircare,Product_86,7,101.14,707.98
+2024-09-20,North,Electronics,Tablet,Product_38,10,144.52,1445.2
+2024-06-01,North,Sports,Fitness,Product_45,4,352.54,1410.16
+2024-07-17,East,Sports,Indoor,Product_61,1,190.86,190.86
+2024-05-24,Central,Sports,Indoor,Product_91,9,462.21,4159.89
+2024-10-08,North,Electronics,Mobile,Product_86,1,60.54,60.54
+2024-04-21,South,Clothing,Men,Product_96,8,383.21,3065.68
+2024-06-23,North,Electronics,Laptop,Product_28,2,451.04,902.08
+2024-11-12,West,Beauty,Makeup,Product_46,10,105.3,1053.0
+2024-04-17,South,Home & Kitchen,Furniture,Product_59,2,126.89,253.78
+2024-04-10,South,Sports,Fitness,Product_73,10,116.13,1161.3
+2024-07-22,East,Sports,Indoor,Product_44,3,73.68,221.04
+2024-02-21,South,Clothing,Women,Product_49,2,110.0,220.0
+2024-07-28,North,Sports,Indoor,Product_41,7,313.11,2191.77
+2024-01-26,West,Beauty,Haircare,Product_77,8,54.6,436.8
+2024-10-01,East,Clothing,Kids,Product_2,6,83.19,499.14
+2024-12-21,South,Electronics,Laptop,Product_26,1,183.45,183.45
+2024-10-26,North,Beauty,Skincare,Product_15,9,461.39,4152.51
+2024-07-04,East,Beauty,Skincare,Product_84,4,215.62,862.48
+2024-10-03,North,Clothing,Kids,Product_34,3,445.61,1336.83
+2024-06-10,East,Beauty,Makeup,Product_58,2,402.59,805.18
+2024-07-05,Central,Clothing,Women,Product_35,10,341.97,3419.7
+2024-09-05,West,Electronics,Mobile,Product_87,2,438.69,877.38
+2024-03-19,West,Electronics,Mobile,Product_40,7,220.07,1540.49
+2024-12-04,West,Sports,Outdoor,Product_1,4,144.08,576.32
+2024-11-23,South,Home & Kitchen,Furniture,Product_19,2,373.12,746.24
+2024-02-03,West,Beauty,Skincare,Product_53,10,352.61,3526.1
+2024-12-18,South,Electronics,Tablet,Product_39,4,440.44,1761.76
+2024-03-09,Central,Home & Kitchen,Decor,Product_74,9,215.76,1941.84
+2024-03-06,Central,Sports,Fitness,Product_31,2,273.51,547.02
+2024-06-24,East,Beauty,Haircare,Product_6,1,379.37,379.37
+2024-12-21,North,Clothing,Women,Product_42,5,201.26,1006.3
+2024-06-24,East,Sports,Fitness,Product_70,2,194.59,389.18
+2024-08-11,West,Beauty,Skincare,Product_62,6,352.63,2115.78
+2024-03-30,Central,Clothing,Kids,Product_91,10,160.31,1603.1
+2024-05-15,West,Sports,Indoor,Product_31,6,100.64,603.84
+2024-12-25,North,Beauty,Haircare,Product_100,9,302.94,2726.46
+2024-01-01,South,Clothing,Men,Product_10,3,318.53,955.59
+2024-02-12,Central,Clothing,Men,Product_84,4,215.12,860.48
+2024-01-06,North,Home & Kitchen,Appliances,Product_59,10,198.79,1987.9
+2024-10-07,Central,Clothing,Kids,Product_30,2,211.22,422.44
+2024-12-02,Central,Electronics,Mobile,Product_19,8,462.43,3699.44
+2024-10-03,North,Home & Kitchen,Appliances,Product_18,2,314.43,628.86
+2024-04-13,North,Sports,Indoor,Product_95,5,134.6,673.0
+2024-12-06,West,Clothing,Kids,Product_34,7,461.35,3229.45
+2024-09-14,Central,Electronics,Tablet,Product_69,9,298.22,2683.98
+2024-06-17,East,Beauty,Makeup,Product_27,4,403.69,1614.76
+2024-11-12,West,Beauty,Makeup,Product_48,5,243.15,1215.75
+2024-11-07,North,Clothing,Women,Product_90,8,455.27,3642.16
+2024-08-06,East,Sports,Outdoor,Product_41,8,62.59,500.72
+2024-05-15,East,Home & Kitchen,Furniture,Product_63,5,77.46,387.3
+2024-11-16,West,Electronics,Laptop,Product_72,6,96.42,578.52
+2024-11-23,North,Home & Kitchen,Furniture,Product_9,10,161.5,1615.0
+2024-09-10,East,Sports,Indoor,Product_40,6,399.59,2397.54
+2024-12-18,North,Sports,Fitness,Product_28,1,320.61,320.61
+2024-04-25,West,Sports,Outdoor,Product_53,4,487.95,1951.8
+2024-08-21,East,Beauty,Makeup,Product_11,5,487.91,2439.55
+2024-11-22,North,Sports,Fitness,Product_59,7,177.11,1239.77
+2024-08-02,North,Sports,Fitness,Product_41,8,355.78,2846.24
+2024-04-07,South,Electronics,Mobile,Product_47,3,468.76,1406.28
+2024-01-27,East,Electronics,Mobile,Product_66,9,142.31,1280.79
+2024-10-14,Central,Sports,Fitness,Product_13,5,225.09,1125.45
+2024-08-08,East,Clothing,Kids,Product_92,6,301.22,1807.32
+2024-02-13,South,Beauty,Makeup,Product_90,6,286.08,1716.48
+2024-04-07,East,Sports,Fitness,Product_89,7,301.81,2112.67
+2024-11-15,South,Electronics,Tablet,Product_82,9,372.15,3349.35
+2024-07-11,North,Sports,Outdoor,Product_19,10,213.46,2134.6
+2024-04-26,North,Home & Kitchen,Appliances,Product_42,3,289.83,869.49
+2024-11-25,South,Clothing,Kids,Product_30,7,43.71,305.97
+2024-06-04,West,Clothing,Men,Product_76,9,467.73,4209.57
+2024-09-11,North,Home & Kitchen,Decor,Product_96,3,247.46,742.38
+2024-12-06,Central,Sports,Fitness,Product_30,5,312.63,1563.15
+2024-05-26,Central,Clothing,Women,Product_5,2,163.72,327.44
+2024-08-08,North,Sports,Fitness,Product_19,1,180.61,180.61
+2024-03-09,South,Beauty,Skincare,Product_84,8,274.66,2197.28
+2024-03-31,South,Home & Kitchen,Furniture,Product_23,4,23.66,94.64
+2024-01-22,East,Electronics,Tablet,Product_7,6,259.45,1556.7
+2024-03-08,West,Electronics,Tablet,Product_73,9,37.78,340.02
+2024-02-21,Central,Sports,Fitness,Product_99,6,379.21,2275.26
+2024-10-01,West,Home & Kitchen,Furniture,Product_78,6,370.91,2225.46
+2024-07-20,South,Beauty,Haircare,Product_66,2,63.52,127.04
+2024-05-02,North,Electronics,Tablet,Product_88,4,386.69,1546.76
+2024-08-15,Central,Home & Kitchen,Decor,Product_95,6,59.62,357.72
+2024-06-27,Central,Home & Kitchen,Furniture,Product_64,3,309.13,927.39
+2024-09-21,East,Beauty,Haircare,Product_19,9,447.45,4027.05
+2024-11-28,West,Beauty,Haircare,Product_71,8,117.51,940.08
+2024-07-27,North,Sports,Fitness,Product_78,3,403.29,1209.87
+2024-03-14,Central,Clothing,Women,Product_8,10,114.01,1140.1
+2024-12-10,South,Home & Kitchen,Decor,Product_32,5,163.6,818.0
+2024-01-22,South,Electronics,Tablet,Product_62,3,470.29,1410.87
+2024-02-11,North,Clothing,Men,Product_9,10,164.53,1645.3
+2024-08-09,West,Electronics,Laptop,Product_61,2,389.35,778.7
+2024-12-08,South,Home & Kitchen,Appliances,Product_34,2,11.45,22.9
+2024-11-21,East,Beauty,Skincare,Product_71,10,435.96,4359.6
+2024-08-18,East,Clothing,Kids,Product_47,4,11.11,44.44
+2024-08-18,Central,Clothing,Men,Product_51,3,305.82,917.46
+2024-03-17,East,Beauty,Haircare,Product_45,5,167.84,839.2
+2024-12-18,South,Clothing,Women,Product_16,7,353.64,2475.48
+2024-08-24,South,Beauty,Haircare,Product_65,10,312.51,3125.1
+2024-10-14,Central,Electronics,Tablet,Product_50,1,223.22,223.22
+2024-08-23,Central,Sports,Fitness,Product_48,9,313.46,2821.14
+2024-10-29,North,Electronics,Tablet,Product_32,8,463.04,3704.32
+2024-02-15,South,Home & Kitchen,Furniture,Product_26,1,444.77,444.77
+2024-04-29,South,Clothing,Men,Product_91,2,165.9,331.8
+2024-07-16,North,Clothing,Women,Product_46,8,86.2,689.6
+2024-02-28,Central,Electronics,Laptop,Product_58,4,227.79,911.16
+2024-04-19,West,Electronics,Mobile,Product_90,10,111.83,1118.3
+2024-11-20,West,Electronics,Mobile,Product_49,2,419.84,839.68
+2024-12-27,South,Clothing,Women,Product_37,3,308.72,926.16
+2024-05-16,West,Sports,Indoor,Product_16,1,95.75,95.75
+2024-03-23,Central,Electronics,Laptop,Product_24,2,430.53,861.06
+2024-03-28,West,Electronics,Laptop,Product_78,6,472.09,2832.54
+2024-06-22,South,Electronics,Tablet,Product_40,9,19.93,179.37
+2024-03-07,North,Sports,Outdoor,Product_85,5,132.65,663.25
+2024-02-19,North,Clothing,Women,Product_19,3,336.7,1010.1
+2024-04-15,South,Electronics,Laptop,Product_79,5,189.56,947.8
+2024-09-04,South,Home & Kitchen,Appliances,Product_37,10,336.38,3363.8
+2024-01-15,East,Home & Kitchen,Appliances,Product_13,9,427.05,3843.45
+2024-01-18,South,Electronics,Laptop,Product_50,3,169.91,509.73
+2024-07-26,Central,Sports,Fitness,Product_56,8,230.63,1845.04
+2024-08-08,North,Sports,Fitness,Product_51,2,21.64,43.28
+2024-06-09,Central,Home & Kitchen,Furniture,Product_83,6,112.27,673.62
+2024-06-16,South,Clothing,Women,Product_32,10,349.28,3492.8
+2024-05-24,Central,Beauty,Makeup,Product_25,10,107.47,1074.7
+2024-04-17,North,Beauty,Skincare,Product_80,5,151.6,758.0
+2024-03-06,West,Electronics,Laptop,Product_43,3,20.01,60.03
+2024-05-13,North,Home & Kitchen,Decor,Product_87,3,155.46,466.38
+2024-07-22,South,Electronics,Laptop,Product_80,1,408.23,408.23
+2024-07-21,South,Clothing,Women,Product_76,8,435.87,3486.96
+2024-10-19,North,Beauty,Skincare,Product_62,9,25.87,232.83
+2024-02-28,East,Clothing,Kids,Product_43,5,438.55,2192.75
+2024-01-19,South,Home & Kitchen,Appliances,Product_63,1,146.41,146.41
+2024-03-02,Central,Electronics,Laptop,Product_67,5,257.17,1285.85
+2024-08-24,West,Clothing,Women,Product_26,8,98.4,787.2
+2024-08-12,East,Electronics,Mobile,Product_61,3,80.31,240.93
+2024-10-23,North,Electronics,Mobile,Product_63,7,364.44,2551.08
+2024-04-08,West,Beauty,Haircare,Product_51,8,144.79,1158.32
+2024-04-07,East,Clothing,Kids,Product_38,8,365.87,2926.96
+2024-07-26,South,Sports,Outdoor,Product_31,2,303.7,607.4
+2024-04-10,West,Beauty,Skincare,Product_71,10,454.64,4546.4
+2024-01-31,North,Beauty,Skincare,Product_79,3,51.23,153.69
+2024-10-13,East,Beauty,Haircare,Product_31,6,211.02,1266.12
+2024-11-24,East,Beauty,Skincare,Product_67,8,147.39,1179.12
+2024-10-25,Central,Sports,Fitness,Product_33,6,311.93,1871.58
+2024-04-25,Central,Clothing,Men,Product_21,10,158.83,1588.3
+2024-04-16,North,Beauty,Haircare,Product_17,9,441.37,3972.33
+2024-02-24,South,Beauty,Makeup,Product_57,4,480.77,1923.08
+2024-10-23,East,Electronics,Tablet,Product_40,7,259.69,1817.83
+2024-12-13,Central,Electronics,Laptop,Product_90,1,308.41,308.41
+2024-05-03,North,Clothing,Kids,Product_9,9,379.0,3411.0
+2024-07-15,East,Sports,Indoor,Product_97,8,305.8,2446.4
+2024-07-21,Central,Home & Kitchen,Decor,Product_65,2,427.63,855.26
+2024-04-18,East,Sports,Fitness,Product_68,1,175.25,175.25
+2024-02-09,East,Beauty,Skincare,Product_23,4,302.68,1210.72
+2024-07-12,South,Clothing,Kids,Product_82,2,297.09,594.18
+2024-09-16,North,Clothing,Kids,Product_10,1,484.59,484.59
+2024-11-26,West,Sports,Outdoor,Product_11,4,273.87,1095.48
+2024-06-25,South,Electronics,Mobile,Product_27,8,47.18,377.44
+2024-08-13,West,Clothing,Women,Product_4,3,129.5,388.5
+2024-05-12,East,Clothing,Kids,Product_73,3,461.66,1384.98
+2024-08-04,North,Home & Kitchen,Appliances,Product_49,8,267.97,2143.76
+2024-08-18,North,Beauty,Skincare,Product_31,3,352.16,1056.48
+2024-04-27,West,Electronics,Laptop,Product_33,8,17.28,138.24
+2024-06-22,Central,Sports,Indoor,Product_16,4,486.99,1947.96
+2024-03-01,South,Electronics,Laptop,Product_58,10,296.88,2968.8
+2024-08-20,Central,Sports,Fitness,Product_41,1,421.57,421.57
+2024-08-11,West,Sports,Fitness,Product_27,6,317.89,1907.34
+2024-10-09,East,Clothing,Women,Product_93,1,111.12,111.12
+2024-07-09,North,Sports,Outdoor,Product_85,2,410.12,820.24
+2024-05-28,Central,Sports,Fitness,Product_10,9,194.68,1752.12
+2024-01-27,South,Electronics,Tablet,Product_36,1,159.43,159.43
+2024-12-24,East,Sports,Outdoor,Product_32,9,157.71,1419.39
+2024-10-15,Central,Beauty,Haircare,Product_78,10,410.45,4104.5
+2024-09-02,East,Electronics,Tablet,Product_72,2,249.6,499.2
+2024-08-24,West,Clothing,Women,Product_48,10,472.12,4721.2
+2024-07-21,East,Electronics,Laptop,Product_44,3,317.01,951.03
+2024-11-20,West,Electronics,Mobile,Product_90,10,384.19,3841.9
+2024-07-24,Central,Clothing,Women,Product_92,10,471.36,4713.6
+2024-04-04,West,Beauty,Makeup,Product_76,10,220.0,2200.0
+2024-11-20,North,Beauty,Haircare,Product_36,10,49.07,490.7
+2024-10-13,West,Sports,Indoor,Product_38,6,119.76,718.56
+2024-08-17,East,Beauty,Haircare,Product_77,5,481.79,2408.95
+2024-12-17,South,Home & Kitchen,Furniture,Product_72,10,488.99,4889.9
+2024-10-31,South,Sports,Outdoor,Product_33,3,237.32,711.96
+2024-04-28,South,Clothing,Men,Product_12,5,426.02,2130.1
+2024-05-28,Central,Clothing,Kids,Product_71,8,342.54,2740.32
+2024-06-24,Central,Clothing,Women,Product_24,1,164.15,164.15
+2024-12-19,Central,Electronics,Laptop,Product_69,7,461.83,3232.81
+2024-05-04,Central,Sports,Fitness,Product_84,10,347.14,3471.4
+2024-07-20,South,Home & Kitchen,Furniture,Product_96,10,377.23,3772.3
+2024-04-24,West,Clothing,Women,Product_66,3,95.95,287.85
+2024-07-29,West,Clothing,Kids,Product_68,3,94.47,283.41
+2024-05-12,North,Home & Kitchen,Appliances,Product_40,10,92.2,922.0
+2024-07-02,East,Home & Kitchen,Appliances,Product_93,7,284.1,1988.7
+2024-10-28,West,Sports,Fitness,Product_71,6,74.4,446.4
+2024-01-09,North,Clothing,Men,Product_64,6,244.2,1465.2
+2024-02-19,Central,Clothing,Women,Product_82,9,217.75,1959.75
+2024-01-26,Central,Home & Kitchen,Decor,Product_25,2,96.31,192.62
+2024-02-16,West,Sports,Outdoor,Product_84,6,419.35,2516.1
+2024-08-12,South,Beauty,Makeup,Product_35,8,293.17,2345.36
+2024-06-14,East,Home & Kitchen,Furniture,Product_56,5,291.37,1456.85
+2024-12-22,North,Home & Kitchen,Appliances,Product_78,8,280.82,2246.56
+2024-01-11,North,Electronics,Mobile,Product_8,3,400.22,1200.66
+2024-12-28,South,Clothing,Women,Product_63,3,208.3,624.9
+2024-01-14,North,Electronics,Laptop,Product_38,5,282.26,1411.3
+2024-09-10,Central,Home & Kitchen,Appliances,Product_75,10,370.37,3703.7
+2024-03-25,Central,Sports,Indoor,Product_98,2,183.97,367.94
+2024-11-02,Central,Clothing,Kids,Product_77,4,114.71,458.84
+2024-07-05,West,Clothing,Kids,Product_29,2,448.67,897.34
+2024-07-30,West,Electronics,Laptop,Product_85,6,308.4,1850.4
+2024-03-18,South,Beauty,Haircare,Product_52,1,341.24,341.24
+2024-12-08,West,Sports,Fitness,Product_32,4,254.08,1016.32
+2024-09-26,West,Clothing,Women,Product_76,6,219.0,1314.0
+2024-01-18,West,Sports,Outdoor,Product_30,9,387.73,3489.57
+2024-11-08,East,Sports,Indoor,Product_33,2,366.0,732.0
+2024-01-03,East,Beauty,Makeup,Product_56,1,459.35,459.35
+2024-03-10,North,Beauty,Haircare,Product_39,5,159.3,796.5
+2024-04-24,Central,Sports,Indoor,Product_58,8,95.22,761.76
+2024-04-09,West,Sports,Outdoor,Product_71,6,429.2,2575.2
+2024-10-14,West,Electronics,Tablet,Product_60,3,94.33,282.99
+2024-03-28,West,Electronics,Tablet,Product_90,4,186.75,747.0
+2024-07-11,North,Electronics,Tablet,Product_94,1,481.93,481.93
+2024-12-25,West,Electronics,Tablet,Product_83,2,168.93,337.86
+2024-11-07,Central,Clothing,Kids,Product_55,7,478.57,3349.99
+2024-11-02,Central,Beauty,Makeup,Product_32,6,159.98,959.88
+2024-09-20,Central,Clothing,Women,Product_97,4,456.07,1824.28
+2024-02-04,Central,Clothing,Women,Product_55,6,383.24,2299.44
+2024-03-02,South,Sports,Outdoor,Product_80,9,233.88,2104.92
+2024-07-17,North,Sports,Fitness,Product_39,7,91.28,638.96
+2024-01-14,North,Beauty,Skincare,Product_49,3,294.48,883.44
+2024-12-09,West,Beauty,Makeup,Product_95,7,50.19,351.33
+2024-01-21,Central,Sports,Indoor,Product_62,9,145.79,1312.11
+2024-01-23,East,Electronics,Mobile,Product_87,1,379.12,379.12
+2024-09-23,South,Sports,Fitness,Product_59,2,485.92,971.84
+2024-08-17,Central,Sports,Indoor,Product_75,4,302.56,1210.24
+2024-09-30,North,Sports,Indoor,Product_5,1,13.96,13.96
+2024-11-28,South,Sports,Indoor,Product_17,8,415.38,3323.04
+2024-09-22,Central,Electronics,Tablet,Product_27,10,450.66,4506.6
+2024-12-04,North,Home & Kitchen,Decor,Product_19,2,137.42,274.84
+2024-01-13,South,Sports,Fitness,Product_60,8,463.2,3705.6
+2024-10-20,South,Home & Kitchen,Decor,Product_2,2,73.78,147.56
+2024-09-30,North,Home & Kitchen,Decor,Product_40,2,451.77,903.54
+2024-04-03,Central,Home & Kitchen,Appliances,Product_50,8,398.43,3187.44
+2024-02-11,West,Clothing,Kids,Product_42,1,420.29,420.29
+2024-12-24,North,Clothing,Women,Product_8,5,35.5,177.5
+2024-06-11,East,Sports,Outdoor,Product_47,4,240.89,963.56
+2024-10-04,South,Clothing,Kids,Product_17,3,255.14,765.42
+2024-08-14,Central,Beauty,Makeup,Product_8,7,19.95,139.65
+2024-06-23,Central,Clothing,Women,Product_88,7,71.68,501.76
+2024-02-02,West,Electronics,Tablet,Product_56,4,242.31,969.24
+2024-08-21,South,Home & Kitchen,Furniture,Product_3,8,127.0,1016.0
+2024-10-10,North,Electronics,Tablet,Product_83,1,278.35,278.35
+2024-09-11,North,Clothing,Kids,Product_85,4,353.68,1414.72
+2024-09-22,North,Beauty,Makeup,Product_62,7,129.83,908.81
+2024-04-12,South,Home & Kitchen,Decor,Product_76,5,495.77,2478.85
+2024-04-05,West,Electronics,Mobile,Product_26,4,59.92,239.68
+2024-06-26,North,Sports,Fitness,Product_70,9,434.68,3912.12
+2024-03-29,East,Clothing,Kids,Product_100,10,308.88,3088.8
+2024-01-25,South,Beauty,Skincare,Product_89,9,496.09,4464.81
+2024-09-19,West,Sports,Outdoor,Product_3,10,270.79,2707.9
+2024-06-12,East,Sports,Fitness,Product_96,2,281.98,563.96
+2024-08-30,West,Home & Kitchen,Appliances,Product_47,9,141.9,1277.1
+2024-12-26,East,Clothing,Women,Product_58,10,359.85,3598.5
+2024-01-31,East,Clothing,Women,Product_88,1,290.66,290.66
+2024-04-29,East,Electronics,Tablet,Product_2,7,113.11,791.77
+2024-12-27,East,Home & Kitchen,Appliances,Product_30,8,456.49,3651.92
+2024-05-05,West,Sports,Indoor,Product_4,8,442.81,3542.48
+2024-02-10,South,Home & Kitchen,Appliances,Product_91,2,301.78,603.56
+2024-04-09,Central,Electronics,Laptop,Product_50,10,411.23,4112.3
+2024-06-20,South,Beauty,Skincare,Product_80,1,139.96,139.96
+2024-03-10,South,Electronics,Tablet,Product_52,8,106.23,849.84
+2024-10-23,West,Electronics,Laptop,Product_61,1,479.63,479.63
+2024-03-22,East,Sports,Outdoor,Product_78,4,249.64,998.56
+2024-11-05,Central,Sports,Fitness,Product_94,5,428.13,2140.65
+2024-11-24,North,Beauty,Skincare,Product_35,7,278.64,1950.48
+2024-12-08,North,Sports,Outdoor,Product_58,8,470.72,3765.76
+2024-08-01,East,Clothing,Women,Product_25,8,126.82,1014.56
+2024-03-09,East,Sports,Outdoor,Product_21,2,180.3,360.6
+2024-05-05,Central,Home & Kitchen,Decor,Product_50,6,156.08,936.48
+2024-04-18,West,Clothing,Kids,Product_60,1,255.34,255.34
+2024-08-27,North,Clothing,Men,Product_86,8,10.54,84.32
+2024-01-09,North,Electronics,Mobile,Product_57,8,300.02,2400.16
+2024-06-26,North,Clothing,Kids,Product_2,1,230.92,230.92
+2024-07-29,West,Electronics,Tablet,Product_92,6,417.92,2507.52
+2024-10-14,North,Electronics,Laptop,Product_83,3,398.46,1195.38
+2024-03-17,West,Home & Kitchen,Appliances,Product_61,9,161.11,1449.99
+2024-11-18,North,Sports,Indoor,Product_25,2,168.13,336.26
+2024-02-07,West,Clothing,Women,Product_47,10,96.99,969.9
+2024-03-26,Central,Sports,Fitness,Product_66,6,376.11,2256.66
+2024-06-22,Central,Clothing,Men,Product_41,1,385.87,385.87
+2024-05-31,Central,Clothing,Men,Product_34,3,316.89,950.67
+2024-03-24,Central,Sports,Fitness,Product_73,2,480.75,961.5
+2024-09-03,North,Beauty,Makeup,Product_42,7,351.81,2462.67
+2024-04-01,Central,Electronics,Mobile,Product_36,6,86.13,516.78
+2024-11-08,South,Clothing,Kids,Product_57,6,67.49,404.94
+2024-08-03,Central,Home & Kitchen,Furniture,Product_90,10,77.21,772.1
+2024-05-16,East,Clothing,Men,Product_84,5,376.16,1880.8
+2024-03-24,East,Clothing,Kids,Product_61,8,62.41,499.28
+2024-10-27,East,Sports,Indoor,Product_1,1,147.82,147.82
+2024-02-13,West,Electronics,Tablet,Product_99,2,405.05,810.1
+2024-04-10,West,Sports,Indoor,Product_86,3,47.37,142.11
+2024-05-05,North,Beauty,Haircare,Product_98,4,399.11,1596.44
+2024-08-23,South,Electronics,Mobile,Product_11,5,327.17,1635.85
+2024-11-19,Central,Home & Kitchen,Decor,Product_20,2,331.51,663.02
+2024-08-30,North,Beauty,Haircare,Product_10,3,148.75,446.25
+2024-05-25,East,Clothing,Kids,Product_36,1,336.87,336.87
+2024-01-26,West,Home & Kitchen,Decor,Product_27,5,414.25,2071.25
+2024-06-30,North,Sports,Indoor,Product_44,1,50.83,50.83
+2024-03-02,North,Beauty,Makeup,Product_54,2,33.95,67.9
+2024-05-24,Central,Beauty,Haircare,Product_83,8,256.51,2052.08
+2024-02-11,West,Sports,Indoor,Product_68,1,311.12,311.12
+2024-08-08,North,Electronics,Tablet,Product_94,2,326.73,653.46
+2024-06-06,West,Clothing,Kids,Product_90,9,401.02,3609.18
+2024-03-30,West,Clothing,Women,Product_55,2,103.9,207.8
+2024-10-02,South,Electronics,Laptop,Product_51,2,153.43,306.86
+2024-11-01,North,Clothing,Kids,Product_71,4,386.49,1545.96
+2024-08-26,West,Electronics,Tablet,Product_29,7,295.95,2071.65
+2024-10-03,West,Beauty,Haircare,Product_13,5,85.67,428.35
+2024-07-23,North,Sports,Fitness,Product_24,4,453.03,1812.12
+2024-03-10,South,Beauty,Skincare,Product_83,4,222.75,891.0
+2024-11-07,Central,Clothing,Women,Product_5,7,258.06,1806.42
+2024-07-29,North,Clothing,Kids,Product_36,9,383.65,3452.85
+2024-06-10,North,Clothing,Women,Product_10,8,452.17,3617.36
+2024-11-05,South,Beauty,Makeup,Product_76,8,485.24,3881.92
+2024-06-03,South,Electronics,Tablet,Product_73,9,472.46,4252.14
+2024-07-13,Central,Electronics,Mobile,Product_17,6,483.77,2902.62
+2024-05-06,North,Home & Kitchen,Decor,Product_30,1,138.28,138.28
+2024-01-09,North,Electronics,Tablet,Product_86,8,19.11,152.88
+2024-03-02,West,Sports,Indoor,Product_93,1,450.94,450.94
+2024-01-26,West,Electronics,Tablet,Product_64,10,427.58,4275.8
+2024-09-18,East,Home & Kitchen,Decor,Product_73,4,472.95,1891.8
+2024-05-10,South,Clothing,Men,Product_13,2,420.81,841.62
+2024-07-30,East,Clothing,Kids,Product_41,9,407.19,3664.71
+2024-12-29,South,Electronics,Mobile,Product_46,7,298.9,2092.3
+2024-06-02,South,Clothing,Women,Product_6,2,425.79,851.58
+2024-07-06,Central,Sports,Outdoor,Product_2,10,123.77,1237.7
+2024-07-24,Central,Sports,Outdoor,Product_13,5,286.41,1432.05
+2024-03-16,South,Clothing,Kids,Product_53,3,417.71,1253.13
+2024-01-20,Central,Beauty,Skincare,Product_27,7,427.47,2992.29
+2024-02-04,West,Beauty,Makeup,Product_88,4,255.41,1021.64
+2024-11-13,West,Beauty,Makeup,Product_90,2,71.31,142.62
+2024-07-14,Central,Home & Kitchen,Decor,Product_70,2,495.35,990.7
+2024-01-15,North,Sports,Fitness,Product_20,9,430.84,3877.56
+2024-11-13,North,Clothing,Men,Product_78,9,51.24,461.16
+2024-11-03,Central,Home & Kitchen,Appliances,Product_64,10,388.24,3882.4
+2024-06-29,East,Home & Kitchen,Appliances,Product_41,7,469.74,3288.18
+2024-10-01,East,Electronics,Laptop,Product_66,4,338.75,1355.0
+2024-05-07,North,Electronics,Laptop,Product_100,2,45.06,90.12
+2024-06-26,East,Sports,Outdoor,Product_8,1,220.49,220.49
+2024-01-30,Central,Electronics,Laptop,Product_70,6,475.48,2852.88
+2024-09-07,South,Home & Kitchen,Appliances,Product_33,1,155.45,155.45
+2024-10-28,North,Clothing,Kids,Product_61,9,264.69,2382.21
+2024-05-09,East,Beauty,Skincare,Product_97,2,163.76,327.52
+2024-11-21,South,Home & Kitchen,Appliances,Product_17,9,205.93,1853.37
+2024-09-30,East,Clothing,Women,Product_48,4,217.25,869.0
+2024-03-20,North,Home & Kitchen,Appliances,Product_41,9,386.15,3475.35
+2024-09-07,West,Clothing,Men,Product_10,4,356.51,1426.04
+2024-06-23,West,Electronics,Mobile,Product_7,7,344.0,2408.0
+2024-08-28,North,Sports,Indoor,Product_72,6,108.01,648.06
+2024-11-27,East,Clothing,Men,Product_93,5,84.72,423.6
+2024-07-05,East,Clothing,Women,Product_59,7,180.84,1265.88
+2024-09-12,Central,Clothing,Women,Product_98,7,33.64,235.48
+2024-01-10,South,Clothing,Kids,Product_58,10,386.72,3867.2
+2024-04-29,Central,Electronics,Laptop,Product_17,1,51.75,51.75
+2024-08-07,South,Beauty,Makeup,Product_54,4,160.06,640.24
+2024-05-11,Central,Sports,Indoor,Product_71,8,208.18,1665.44
+2024-05-21,West,Beauty,Haircare,Product_43,2,91.06,182.12
+2024-02-06,Central,Clothing,Kids,Product_68,8,436.43,3491.44
+2024-12-10,South,Sports,Outdoor,Product_98,2,118.36,236.72
+2024-12-01,North,Electronics,Mobile,Product_79,9,225.61,2030.49
+2024-05-24,North,Clothing,Men,Product_95,6,37.56,225.36
+2024-12-24,North,Sports,Fitness,Product_1,8,341.28,2730.24
+2024-04-18,Central,Clothing,Men,Product_48,9,68.24,614.16
+2024-08-01,South,Electronics,Mobile,Product_6,6,134.83,808.98
+2024-11-30,Central,Beauty,Skincare,Product_63,8,192.58,1540.64
+2024-07-24,Central,Home & Kitchen,Appliances,Product_64,2,59.81,119.62
+2024-04-26,West,Beauty,Makeup,Product_52,8,225.81,1806.48
+2024-11-16,Central,Sports,Fitness,Product_48,5,101.07,505.35
+2024-11-12,West,Sports,Outdoor,Product_18,5,56.24,281.2
+2024-09-07,East,Electronics,Mobile,Product_59,9,264.76,2382.84
+2024-07-20,South,Home & Kitchen,Appliances,Product_74,5,107.46,537.3
+2024-08-02,West,Home & Kitchen,Furniture,Product_86,8,223.85,1790.8
+2024-11-24,West,Home & Kitchen,Appliances,Product_27,10,28.49,284.9
+2024-08-01,East,Beauty,Skincare,Product_50,1,327.21,327.21
+2024-04-25,East,Clothing,Men,Product_42,3,414.26,1242.78
+2024-12-07,Central,Clothing,Kids,Product_49,6,76.08,456.48
+2024-11-12,North,Clothing,Kids,Product_81,10,19.63,196.3
+2024-06-08,West,Electronics,Laptop,Product_20,9,157.4,1416.6
+2024-03-17,West,Clothing,Kids,Product_78,9,240.57,2165.13
+2024-12-19,West,Electronics,Laptop,Product_24,8,337.78,2702.24
+2024-08-11,West,Beauty,Haircare,Product_32,4,371.37,1485.48
+2024-06-21,South,Sports,Indoor,Product_19,1,321.76,321.76
+2024-08-29,South,Clothing,Men,Product_4,5,342.04,1710.2
+2024-10-10,West,Sports,Outdoor,Product_50,4,168.02,672.08
+2024-02-08,Central,Home & Kitchen,Furniture,Product_49,6,277.17,1663.02
+2024-06-09,North,Beauty,Haircare,Product_51,1,492.99,492.99
+2024-05-28,East,Electronics,Tablet,Product_23,5,162.94,814.7
+2024-06-03,North,Beauty,Haircare,Product_49,3,292.04,876.12
+2024-06-16,East,Electronics,Laptop,Product_41,8,345.11,2760.88
+2024-06-17,South,Clothing,Men,Product_18,10,364.41,3644.1
+2024-12-11,East,Home & Kitchen,Furniture,Product_16,3,127.95,383.85
+2024-08-24,East,Home & Kitchen,Appliances,Product_99,3,356.2,1068.6
+2024-10-08,East,Clothing,Men,Product_11,6,362.85,2177.1
+2024-12-11,North,Sports,Outdoor,Product_23,8,425.78,3406.24
+2024-11-18,West,Beauty,Makeup,Product_15,2,195.65,391.3
+2024-01-26,West,Electronics,Tablet,Product_52,6,418.83,2512.98
+2024-09-09,North,Sports,Indoor,Product_32,4,300.84,1203.36
+2024-11-21,East,Beauty,Skincare,Product_97,3,488.51,1465.53
+2024-09-02,West,Beauty,Makeup,Product_70,5,111.5,557.5
+2024-05-28,North,Electronics,Mobile,Product_86,2,334.89,669.78
+2024-02-24,South,Home & Kitchen,Appliances,Product_48,8,135.89,1087.12
+2024-03-11,South,Clothing,Men,Product_32,10,152.84,1528.4
+2024-12-11,West,Clothing,Women,Product_43,6,183.8,1102.8
+2024-11-03,East,Sports,Fitness,Product_98,7,82.14,574.98
+2024-07-24,South,Clothing,Kids,Product_51,8,70.85,566.8
+2024-09-27,South,Clothing,Men,Product_48,5,60.67,303.35
+2024-05-08,North,Sports,Outdoor,Product_86,8,172.36,1378.88
+2024-04-15,South,Clothing,Women,Product_4,1,130.71,130.71
+2024-10-19,North,Home & Kitchen,Furniture,Product_31,2,162.4,324.8
+2024-08-16,West,Home & Kitchen,Decor,Product_89,7,420.6,2944.2
+2024-06-23,East,Electronics,Tablet,Product_99,5,376.23,1881.15
+2024-01-27,South,Electronics,Mobile,Product_22,7,339.91,2379.37
+2024-10-20,South,Home & Kitchen,Appliances,Product_60,10,195.14,1951.4
+2024-06-26,North,Home & Kitchen,Appliances,Product_54,5,250.39,1251.95
+2024-04-30,East,Clothing,Men,Product_81,5,213.07,1065.35
+2024-07-24,Central,Clothing,Men,Product_36,7,69.82,488.74
+2024-04-09,Central,Clothing,Women,Product_71,8,117.09,936.72
+2024-12-01,North,Beauty,Skincare,Product_36,3,229.94,689.82
+2024-08-06,West,Electronics,Mobile,Product_47,3,234.11,702.33
+2024-12-03,East,Electronics,Laptop,Product_27,6,327.6,1965.6
+2024-11-05,West,Sports,Outdoor,Product_29,3,463.38,1390.14
+2024-10-24,West,Home & Kitchen,Appliances,Product_46,6,142.02,852.12
+2024-03-23,North,Beauty,Makeup,Product_50,8,84.79,678.32
+2024-04-23,South,Electronics,Laptop,Product_57,6,220.5,1323.0
+2024-09-27,South,Clothing,Kids,Product_34,1,399.33,399.33
+2024-03-11,West,Beauty,Makeup,Product_85,7,90.49,633.43
+2024-11-07,Central,Beauty,Haircare,Product_53,7,395.97,2771.79
+2024-03-19,North,Beauty,Makeup,Product_3,9,365.84,3292.56
+2024-09-20,South,Electronics,Tablet,Product_75,6,224.68,1348.08
+2024-09-26,South,Electronics,Mobile,Product_49,1,170.03,170.03
+2024-03-11,East,Electronics,Tablet,Product_61,5,79.73,398.65
+2024-05-10,West,Home & Kitchen,Appliances,Product_8,6,413.61,2481.66
+2024-04-10,North,Beauty,Skincare,Product_25,5,288.71,1443.55
+2024-10-05,Central,Clothing,Men,Product_82,1,404.03,404.03
+2024-07-11,West,Electronics,Tablet,Product_40,6,109.15,654.9
+2024-12-18,North,Home & Kitchen,Decor,Product_15,10,102.52,1025.2
+2024-03-29,East,Beauty,Haircare,Product_38,9,91.11,819.99
+2024-08-23,West,Home & Kitchen,Appliances,Product_77,4,446.08,1784.32
+2024-12-06,North,Home & Kitchen,Appliances,Product_38,7,203.7,1425.9
+2024-09-24,West,Sports,Indoor,Product_59,1,434.88,434.88
+2024-10-11,North,Beauty,Haircare,Product_51,10,241.49,2414.9
+2024-06-05,North,Home & Kitchen,Appliances,Product_52,7,285.56,1998.92
+2024-01-15,Central,Sports,Fitness,Product_52,10,373.3,3733.0
+2024-10-09,North,Home & Kitchen,Appliances,Product_12,1,227.37,227.37
+2024-02-06,West,Electronics,Mobile,Product_41,3,389.08,1167.24
+2024-02-28,East,Beauty,Haircare,Product_98,7,339.74,2378.18
+2024-06-05,Central,Sports,Fitness,Product_62,4,474.25,1897.0
+2024-12-07,East,Electronics,Laptop,Product_85,4,324.42,1297.68
+2024-03-26,South,Sports,Indoor,Product_49,9,77.21,694.89
+2024-10-22,South,Electronics,Laptop,Product_55,8,20.66,165.28
+2024-10-07,South,Clothing,Men,Product_88,6,470.76,2824.56
+2024-07-10,Central,Home & Kitchen,Furniture,Product_84,2,280.55,561.1
+2024-11-03,West,Beauty,Makeup,Product_79,3,199.04,597.12
+2024-02-29,West,Clothing,Kids,Product_64,5,179.66,898.3
+2024-09-03,South,Clothing,Women,Product_6,3,193.16,579.48
+2024-10-07,West,Electronics,Mobile,Product_56,4,84.57,338.28
+2024-10-12,East,Electronics,Laptop,Product_93,9,381.28,3431.52
+2024-01-01,Central,Electronics,Tablet,Product_82,3,222.45,667.35
+2024-10-28,East,Electronics,Mobile,Product_27,1,235.29,235.29
+2024-09-18,South,Electronics,Tablet,Product_60,4,155.07,620.28
+2024-08-04,South,Electronics,Laptop,Product_89,10,449.94,4499.4
+2024-11-12,West,Beauty,Skincare,Product_68,10,301.71,3017.1
+2024-07-05,North,Sports,Indoor,Product_63,6,145.42,872.52
+2024-03-22,West,Beauty,Haircare,Product_6,4,330.4,1321.6
+2024-12-02,Central,Electronics,Tablet,Product_18,10,219.63,2196.3
+2024-08-22,East,Sports,Fitness,Product_53,6,269.71,1618.26
+2024-04-14,East,Sports,Outdoor,Product_92,4,273.21,1092.84
+2024-04-04,North,Clothing,Women,Product_67,1,371.12,371.12
+2024-01-26,Central,Beauty,Makeup,Product_48,9,66.14,595.26
+2024-01-24,North,Clothing,Kids,Product_80,9,460.91,4148.19
+2024-07-13,Central,Sports,Indoor,Product_72,2,128.64,257.28
+2024-02-21,South,Beauty,Skincare,Product_9,1,233.76,233.76
+2024-07-30,West,Home & Kitchen,Decor,Product_44,3,444.52,1333.56
+2024-01-26,East,Electronics,Mobile,Product_63,1,151.78,151.78
+2024-09-24,West,Sports,Outdoor,Product_46,8,65.32,522.56
+2024-08-17,North,Home & Kitchen,Furniture,Product_69,4,152.56,610.24
+2024-03-31,Central,Electronics,Mobile,Product_40,2,318.34,636.68
+2024-03-15,North,Home & Kitchen,Furniture,Product_1,5,13.31,66.55
+2024-06-08,South,Electronics,Tablet,Product_59,6,408.36,2450.16
+2024-06-04,South,Electronics,Mobile,Product_48,9,267.48,2407.32
+2024-11-11,West,Home & Kitchen,Decor,Product_31,5,63.46,317.3
+2024-07-08,South,Clothing,Men,Product_28,4,478.55,1914.2
+2024-02-14,West,Beauty,Haircare,Product_77,10,263.27,2632.7
+2024-05-02,East,Home & Kitchen,Decor,Product_56,7,87.68,613.76
+2024-10-14,North,Electronics,Tablet,Product_40,4,31.37,125.48
+2024-03-25,East,Beauty,Makeup,Product_78,5,444.68,2223.4
+2024-04-22,West,Clothing,Kids,Product_65,5,73.7,368.5
+2024-12-20,West,Home & Kitchen,Appliances,Product_28,2,147.29,294.58
+2024-09-10,Central,Clothing,Kids,Product_96,10,80.84,808.4
+2024-07-17,North,Clothing,Women,Product_57,7,436.86,3058.02
+2024-12-12,West,Electronics,Laptop,Product_36,3,326.4,979.2
+2024-02-22,East,Clothing,Men,Product_82,2,427.79,855.58
+2024-12-23,South,Beauty,Makeup,Product_2,3,34.29,102.87
+2024-12-01,West,Electronics,Laptop,Product_60,1,478.04,478.04
+2024-08-29,South,Sports,Indoor,Product_22,7,21.1,147.7
+2024-11-13,South,Clothing,Men,Product_80,4,209.78,839.12
+2024-02-17,West,Beauty,Skincare,Product_55,9,151.53,1363.77
+2024-09-09,East,Electronics,Laptop,Product_49,3,58.89,176.67
+2024-12-03,East,Sports,Outdoor,Product_25,6,326.01,1956.06
+2024-04-16,East,Clothing,Men,Product_52,3,463.82,1391.46
+2024-07-14,Central,Electronics,Laptop,Product_54,7,402.77,2819.39
+2024-08-05,East,Electronics,Laptop,Product_80,4,300.41,1201.64
+2024-12-21,East,Electronics,Laptop,Product_72,3,252.86,758.58
+2024-09-17,North,Beauty,Skincare,Product_87,9,142.08,1278.72
+2024-02-14,Central,Clothing,Kids,Product_91,4,317.97,1271.88
+2024-10-18,South,Clothing,Women,Product_10,4,30.72,122.88
+2024-12-08,North,Beauty,Haircare,Product_99,9,56.37,507.33
+2024-03-15,Central,Beauty,Makeup,Product_33,6,150.04,900.24
+2024-03-26,North,Electronics,Mobile,Product_21,5,223.28,1116.4
+2024-03-11,South,Sports,Outdoor,Product_30,6,218.54,1311.24
+2024-11-29,West,Sports,Fitness,Product_51,10,302.65,3026.5
+2024-09-03,East,Clothing,Men,Product_47,8,83.06,664.48
+2024-09-12,North,Clothing,Men,Product_18,4,492.95,1971.8
+2024-01-07,East,Electronics,Laptop,Product_4,2,153.13,306.26
+2024-03-28,North,Sports,Outdoor,Product_38,6,466.01,2796.06
+2024-08-05,North,Sports,Indoor,Product_55,10,397.11,3971.1
+2024-01-23,West,Home & Kitchen,Decor,Product_75,6,458.67,2752.02
+2024-11-21,West,Home & Kitchen,Appliances,Product_84,5,394.89,1974.45
+2024-02-17,West,Beauty,Haircare,Product_61,9,488.74,4398.66
+2024-05-09,North,Beauty,Haircare,Product_81,4,120.98,483.92
+2024-01-31,North,Beauty,Makeup,Product_98,3,153.65,460.95
+2024-01-29,East,Sports,Fitness,Product_7,2,355.07,710.14
+2024-08-02,North,Sports,Fitness,Product_12,2,157.62,315.24
+2024-05-19,West,Sports,Outdoor,Product_99,9,322.43,2901.87
+2024-07-29,South,Home & Kitchen,Furniture,Product_12,1,285.45,285.45
+2024-07-27,North,Home & Kitchen,Decor,Product_80,10,215.79,2157.9
+2024-06-20,East,Home & Kitchen,Appliances,Product_96,3,357.22,1071.66
+2024-06-09,Central,Sports,Fitness,Product_70,7,112.11,784.77
+2024-04-24,Central,Beauty,Makeup,Product_95,10,352.56,3525.6
+2024-06-02,North,Beauty,Skincare,Product_75,8,244.42,1955.36
+2024-02-25,Central,Sports,Fitness,Product_85,4,19.99,79.96
+2024-05-07,West,Beauty,Haircare,Product_16,8,425.18,3401.44
+2024-04-07,North,Home & Kitchen,Appliances,Product_46,4,440.48,1761.92
+2024-11-23,East,Beauty,Skincare,Product_59,8,379.72,3037.76
+2024-03-25,East,Home & Kitchen,Appliances,Product_6,4,59.65,238.6
+2024-10-16,South,Clothing,Kids,Product_6,4,280.05,1120.2
+2024-06-21,South,Beauty,Haircare,Product_85,7,115.67,809.69
+2024-02-28,West,Clothing,Men,Product_5,10,76.79,767.9
+2024-11-28,East,Clothing,Men,Product_98,3,383.15,1149.45
+2024-07-22,Central,Beauty,Makeup,Product_68,7,399.25,2794.75
+2024-08-27,Central,Clothing,Women,Product_94,3,82.04,246.12
+2024-02-26,South,Clothing,Men,Product_31,10,444.57,4445.7
+2024-04-03,South,Home & Kitchen,Furniture,Product_41,2,225.54,451.08
+2024-07-08,West,Sports,Fitness,Product_91,8,406.67,3253.36
+2024-10-12,Central,Home & Kitchen,Furniture,Product_12,10,65.72,657.2
+2024-01-30,Central,Clothing,Men,Product_41,1,411.14,411.14
+2024-02-19,Central,Electronics,Mobile,Product_44,6,233.87,1403.22
+2024-04-07,East,Home & Kitchen,Appliances,Product_7,7,245.73,1720.11
+2024-05-12,East,Home & Kitchen,Furniture,Product_66,5,491.25,2456.25
+2024-01-04,East,Sports,Indoor,Product_18,6,296.59,1779.54
+2024-03-03,Central,Home & Kitchen,Appliances,Product_77,6,296.78,1780.68
+2024-07-22,South,Sports,Indoor,Product_27,5,363.19,1815.95
+2024-11-17,West,Sports,Outdoor,Product_53,3,292.04,876.12
+2024-10-20,South,Sports,Fitness,Product_71,3,68.9,206.7
+2024-02-09,Central,Electronics,Tablet,Product_43,3,270.27,810.81
+2024-06-08,North,Beauty,Skincare,Product_41,4,477.73,1910.92
+2024-03-19,North,Home & Kitchen,Decor,Product_71,3,453.63,1360.89
+2024-07-23,North,Electronics,Laptop,Product_1,3,341.81,1025.43
+2024-07-16,Central,Beauty,Haircare,Product_88,3,155.19,465.57
+2024-07-04,East,Beauty,Makeup,Product_46,1,59.84,59.84
+2024-01-20,East,Clothing,Kids,Product_33,5,222.29,1111.45
+2024-02-12,Central,Home & Kitchen,Furniture,Product_77,2,50.96,101.92
+2024-03-13,East,Electronics,Laptop,Product_44,9,140.31,1262.79
+2024-04-27,East,Beauty,Makeup,Product_25,1,43.68,43.68
+2024-10-22,South,Clothing,Men,Product_75,6,51.38,308.28
+2024-04-02,West,Clothing,Kids,Product_19,3,153.06,459.18
+2024-01-08,East,Clothing,Kids,Product_85,1,84.0,84.0
+2024-08-16,North,Home & Kitchen,Furniture,Product_83,1,410.76,410.76
+2024-06-09,West,Beauty,Skincare,Product_7,4,392.95,1571.8
+2024-10-07,South,Sports,Outdoor,Product_35,6,133.92,803.52
+2024-11-18,South,Sports,Outdoor,Product_5,8,348.62,2788.96
+2024-06-08,West,Electronics,Tablet,Product_87,2,334.18,668.36
+2024-09-15,North,Electronics,Tablet,Product_34,10,234.47,2344.7
+2024-06-18,South,Clothing,Women,Product_13,10,497.56,4975.6
+2024-10-22,East,Electronics,Tablet,Product_66,6,124.35,746.1
+2024-10-26,South,Clothing,Kids,Product_1,10,314.03,3140.3
+2024-04-12,Central,Electronics,Laptop,Product_7,6,479.0,2874.0
+2024-02-11,South,Sports,Indoor,Product_76,1,82.89,82.89
+2024-06-09,South,Clothing,Kids,Product_22,6,368.2,2209.2
+2024-09-23,South,Clothing,Men,Product_69,1,79.71,79.71
+2024-04-20,East,Clothing,Men,Product_16,2,53.65,107.3
+2024-02-14,South,Electronics,Tablet,Product_32,1,65.98,65.98
+2024-12-13,Central,Home & Kitchen,Furniture,Product_3,8,134.62,1076.96
